@@ -1,0 +1,10 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ds")(type "KiCad")(uri "${KIPRJMOD}/KiCADv6 2/footprints.pretty")(options "")(descr ""))
+  (lib (name "SN74LVC16T245DLR")(type "KiCad")(uri "${KIPRJMOD}/SN74LVC16T245DLR 2/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "TMUX1204DGSR")(type "KiCad")(uri "${KIPRJMOD}/TMUX1204DGSR")(options "")(descr ""))
+  (lib (name "avlsi")(type "KiCad")(uri "/Users/matthewdobre/Documents/KiCad/power board/avlsi_test_boards/avlsi_library/avlsi.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "/Users/matthewdobre/Documents/KiCad/power board/avlsi_test_boards/avlsi_library/ul_SN74LVC2G32QDCURQ1/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "2_DS")(type "KiCad")(uri "${KIPRJMOD}/KiCad")(options "")(descr ""))
+  (lib (name "74HC4051D_653")(type "KiCad")(uri "${KIPRJMOD}/74HC4051D_653")(options "")(descr ""))
+)

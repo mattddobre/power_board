@@ -1,0 +1,116 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "2454985-3"
+   (description "DIP & SIP Switches, Switch, Gold Flash, Black Housing, PA9T, Auto-Insertable, 2 Switch, -40  85 C, DIP Switch, Alcoswitch DIP ADE")
+   (family "SWI")
+   (package "24549853")
+   (attribute "Datasheet Link" "https://www.mouser.com/datasheet/2/418/3/NG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308-1234788.pdf")
+   (attribute "Geometry.Height" "4.85mm")
+   (attribute "Manufacturer_Name" "TE Connectivity")
+   (attribute "Manufacturer_Part_Number" "2454985-3")
+   (attribute "Arrow Part Number" "2454985-3")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/2454985-3/te-connectivity?region=nac")
+   (gate
+    (symbol "2454985-3")
+    (pin "A1" A1 PS)
+    (pin "A2" A2 PS)
+    (pin "B1" B1 PS)
+    (pin "B2" B2 PS)
+   )
+  )
+  (symbol "2454985-3"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 700 100) (pt 700 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 900 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "24549853"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -3.04 3.1)
+      (pt 3.04 3.1)
+      (pt 3.04 -3.1)
+      (pt -3.04 -3.1)
+      (pt -3.04 3.1))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -3.04 3.1)
+      (pt 3.04 3.1)
+      (pt 3.04 -3.1)
+      (pt -3.04 -3.1)
+      (pt -3.04 3.1))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -4.04 6.2)
+      (pt 4.04 6.2)
+      (pt 4.04 -6.2)
+      (pt -4.04 -6.2)
+      (pt -4.04 6.2))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.27 -5.7)
+      (arc (pt -1.270 -5.700) (pt -1.320 -5.800) (pt -1.220 -5.700) (start 180.0) (sweep 90.0))
+      (pt -1.27 -5.8)
+      (arc (pt -1.270 -5.800) (pt -1.320 -5.800) (pt -1.220 -5.700) (start 180.0) (sweep -90.0))
+      (pt -1.27 -5.7))))
+   (leg A1 (pt -1.270 -4.450) (padstack 0))
+   (leg A2 (pt 1.270 -4.450) (padstack 0))
+   (leg B1 (pt -1.270 4.450) (padstack 0))
+   (leg B2 (pt 1.270 4.450) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.100 1.500 0 0 90.000))
+   )
+   (model "2454985-3.stp"
+    (euler 0 0 0)
+    (offset 0 0 4)
+   )
+  )
+ )
+)

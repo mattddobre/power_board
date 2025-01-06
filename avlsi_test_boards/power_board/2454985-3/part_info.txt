@@ -1,0 +1,9 @@
+Manufacturer=TE Connectivity
+PartNumber=2454985-3
+PartCategory=Switch
+PackageCategory=Other
+PinCount=4
+Version=2.4
+Released=2023-11-10 04:23:30
+Downloaded=2024-11-18 01:25:18
+3D=Y

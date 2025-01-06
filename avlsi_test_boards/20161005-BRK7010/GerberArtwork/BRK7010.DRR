@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BRK7010.PcbDoc   10/5/2016  2:57:06 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : BRK7010-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             81        PTH        8.95inch (227.25mm)
+T2      32mil (0.8mm)                                             Round             174       PTH        19.92inch (506.00mm)
+T3      40mil (1.016mm)                                           Round             3         PTH        0.20inch (5.08mm)
+T4      40mil (1.02mm)                                            Round             4         PTH        4.29inch (108.94mm)
+T5      59mil (1.5mm)                                             Round             3         PTH        0.46inch (11.58mm)
+T6      65mil (1.651mm)                                           Round             10        PTH        11.33inch (287.85mm)
+T7      98mil (2.5mm)                                             Round             8         PTH        15.55inch (394.91mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              283
+
+Total Processing Time (hh:mm:ss) : 00:00:00
