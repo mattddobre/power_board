@@ -1,1 +1,3 @@
 # avlsi_test_boards
+
+Ground Planes added. A few more connections and DRC errors left to resolve...

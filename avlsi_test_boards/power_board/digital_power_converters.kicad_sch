@@ -2603,39 +2603,6 @@
 		)
 		(uuid "f4abba0c-62e9-48d2-b568-2be1f9eaa207")
 	)
-	(label "GND"
-		(at 109.22 132.08 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "04d19c45-f038-4563-b62e-b6efc327817c")
-	)
-	(label "VIN"
-		(at 182.88 74.93 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0b2f9a6a-8aa0-4ab4-acd2-2f19221f9e8f")
-	)
-	(label "GND"
-		(at 109.22 90.17 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0ed93715-8070-4e76-ad4a-91585f9f7a4b")
-	)
 	(label "VCCD25"
 		(at 248.92 124.46 0)
 		(fields_autoplaced yes)
@@ -2646,39 +2613,6 @@
 			(justify left bottom)
 		)
 		(uuid "10efd6d1-9c8e-4897-87d9-39a8e7503696")
-	)
-	(label "VIN"
-		(at 58.42 41.91 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "13361d66-846f-4aa7-a8f3-c99a11ad0cba")
-	)
-	(label "GND"
-		(at 240.03 78.74 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "147a21dc-3273-46f9-9076-0934a48e4fbb")
-	)
-	(label "VIN"
-		(at 182.88 114.3 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1f7ff47d-b451-4aa2-9c79-99f4d99ca51d")
 	)
 	(label "VCCD33"
 		(at 248.92 127 0)
@@ -2691,61 +2625,6 @@
 		)
 		(uuid "2207a381-f807-4ff1-99ce-a5133ede2a56")
 	)
-	(label "VIN"
-		(at 57.15 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2301add9-e5b7-4b88-a1c0-a98305c52a72")
-	)
-	(label "VIN"
-		(at 58.42 38.1 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2a64f4f8-e50c-429f-bf98-5a31d5d6f4a9")
-	)
-	(label "GND"
-		(at 52.07 168.91 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2b57030e-d1d0-44ee-a60a-2a493fb0aa56")
-	)
-	(label "GND"
-		(at 251.46 78.74 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "362137af-a44f-45b7-ba8d-335821f07580")
-	)
-	(label "GND"
-		(at 53.34 53.34 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "43c756af-e6b7-48f2-9973-d37ccb3d9d1f")
-	)
 	(label "VCCD33"
 		(at 100.33 153.67 0)
 		(fields_autoplaced yes)
@@ -2756,17 +2635,6 @@
 			(justify left bottom)
 		)
 		(uuid "47def98a-f520-4d48-8ce6-b95c1544fa33")
-	)
-	(label "GND"
-		(at 167.64 137.16 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "49becb8e-d728-4b51-9c6b-7daa4621dac5")
 	)
 	(label "S2"
 		(at 227.33 62.23 0)
@@ -2779,17 +2647,6 @@
 		)
 		(uuid "4b48a5fb-c245-4d53-a2f4-d580077fe3c8")
 	)
-	(label "VIN"
-		(at 57.15 184.15 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4b9df642-8744-4d21-92d0-0aeb1532a05a")
-	)
 	(label "NULL"
 		(at 248.92 133.35 0)
 		(fields_autoplaced yes)
@@ -2800,28 +2657,6 @@
 			(justify left bottom)
 		)
 		(uuid "54808398-cef3-44fa-be7a-9d5b8c1a0a52")
-	)
-	(label "VIN"
-		(at 57.15 153.67 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5fd569bd-f75b-48d1-a8de-da9e616ca2eb")
-	)
-	(label "VIN"
-		(at 57.15 120.65 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "657fee2c-32cc-4276-9602-9051a9508fde")
 	)
 	(label "VCCD18"
 		(at 248.92 119.38 0)
@@ -2834,39 +2669,6 @@
 		)
 		(uuid "7093ebf8-f3ef-445b-8586-3113e231b713")
 	)
-	(label "AVIN"
-		(at 248.92 129.54 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7c4d2981-a23c-4476-8bbf-ad922cba9960")
-	)
-	(label "GND"
-		(at 109.22 195.58 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "937f2dce-d34a-4e2a-a070-a793017e19ea")
-	)
-	(label "VIN"
-		(at 57.15 74.93 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "95d11c12-b432-4a0e-a085-b006b03b4eec")
-	)
 	(label "VCCD25"
 		(at 100.33 116.84 0)
 		(fields_autoplaced yes)
@@ -2877,28 +2679,6 @@
 			(justify left bottom)
 		)
 		(uuid "9a72b230-d1d7-4cee-b8f6-caf42afff796")
-	)
-	(label "GND"
-		(at 52.07 132.08 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9e96508f-f87f-4d33-8a32-bc4a7f0facb9")
-	)
-	(label "VIN"
-		(at 57.15 157.48 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a4f81388-a997-492f-abf9-a58058d7f099")
 	)
 	(label "VCCD12"
 		(at 248.92 121.92 0)
@@ -2921,39 +2701,6 @@
 			(justify left bottom)
 		)
 		(uuid "ad825482-7566-47e2-a225-f966521c3631")
-	)
-	(label "GND"
-		(at 110.49 53.34 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b2d09099-c860-4ed6-a8b4-d69f49da0722")
-	)
-	(label "GND"
-		(at 109.22 168.91 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b978f5cd-eba0-4c80-8890-9b4e689bcf50")
-	)
-	(label "GND"
-		(at 52.07 195.58 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "b9bd965f-b253-473b-b08a-0dd520b3bf6a")
 	)
 	(label "S0"
 		(at 182.88 124.46 0)
@@ -2988,17 +2735,6 @@
 		)
 		(uuid "d79febd1-16ef-4969-9ba0-5e61a2bfe68f")
 	)
-	(label "VIN"
-		(at 57.15 116.84 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "d99c41be-5d3f-46b0-ac73-fe51a29e320d")
-	)
 	(label "S1"
 		(at 182.88 127 0)
 		(fields_autoplaced yes)
@@ -3020,50 +2756,6 @@
 			(justify left bottom)
 		)
 		(uuid "e48a6589-331d-4e6c-ae7d-1aba421e78e1")
-	)
-	(label "GND"
-		(at 228.6 78.74 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e4c94407-fd64-44b4-acfb-1b5ece5c6df4")
-	)
-	(label "VIN"
-		(at 57.15 180.34 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e7cdddd5-cebc-4c46-b3ab-9178633fdb7d")
-	)
-	(label "GND"
-		(at 52.07 90.17 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "eb1cdda8-1781-4e04-9cf0-4841cb81e0b0")
-	)
-	(label "GND"
-		(at 109.22 132.08 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ef10c55b-d768-4aed-81a5-8416c1194498")
 	)
 	(label "S1"
 		(at 223.52 64.77 0)
@@ -3087,6 +2779,248 @@
 		)
 		(uuid "f40aed92-7f64-443e-ace4-c2dedee32654")
 	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 57.15 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "049a2906-27af-4484-874a-819f5ba07221")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.6614 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 167.64 137.16 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "056b154c-ea44-4e22-8227-5ce825e553d1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.5143 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 52.07 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1087e2d5-a364-4360-ade8-1e39c13f814b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.9443 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VDCustom"
+		(shape input)
+		(at 248.92 129.54 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "254b4809-02cc-46e4-b40d-ef48ebaaa0a7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 261.2789 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 251.46 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2a8e19d4-dafc-4000-8a0d-e124bea28059")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 243.3343 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 53.34 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "3d1ceda6-63bc-4f73-810a-a72d86f5ad00")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 45.2143 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 52.07 168.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4f7ee56d-22cb-4986-a92f-a12136d41bf5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.9443 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 57.15 120.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4f995807-a2c2-4ee9-8564-1171e57c42d7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.6614 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 57.15 180.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5049e24e-1a00-4c07-903c-424d442c639a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.6614 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 110.49 53.34 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "50de5fb8-0548-4fe1-adc2-fe056bf436ce")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.3643 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 58.42 41.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "5899a24a-dcd3-41ac-b0b3-2729dae5e523")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.9314 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "V_Level_Shift"
 		(shape input)
 		(at 229.87 114.3 0)
@@ -3105,6 +3039,358 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 52.07 195.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "66e078c9-cdc2-4dd3-90cc-1541ade6df9f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.9443 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 58.42 38.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "854840ca-1a28-4ade-8c2d-ff352f32836f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 49.9314 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 182.88 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "864aaec4-07c6-4d6e-894d-969d216d6e69")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 174.3914 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 57.15 184.15 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8a0fe8ed-64a0-4f83-9a81-7e95086be1b8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.6614 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 109.22 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8ac4da8d-1f52-4f23-ac4b-1f2b722d1c41")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.0943 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 57.15 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8b1cfdba-066b-49ea-88dc-f6eb2fa933fe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.6614 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 109.22 168.91 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "8f502a98-423a-4fac-8759-8f5928ffa4e7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.0943 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 109.22 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9083f397-0e06-4ff2-a319-dd4f611d3aa9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.0943 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 57.15 157.48 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "908f6c48-09e7-41b6-8e14-59c60ea1656d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.6614 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 109.22 195.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "98b6cddc-4c09-4dc8-925c-2e64fa5525f5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 101.0943 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 167.64 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b51b8da4-660c-440e-8b9e-236c67da8cf1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 159.1514 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 57.15 153.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b65b7b9f-67a9-4f96-bebc-c037313ea513")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.6614 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 240.03 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bbac790b-e3a3-4422-b0e2-5f1c91b5e5b7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 231.9043 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 228.6 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bbf51010-f38d-455f-8df2-124576a0e4d0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 220.4743 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DVIN5"
+		(shape input)
+		(at 57.15 74.93 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c2dd66ec-d27f-4482-bbff-5debfd98ecc2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 48.6614 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DGND"
+		(shape input)
+		(at 52.07 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d52e83fd-28ed-4cd0-b41f-6597806855eb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.9443 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
