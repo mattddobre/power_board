@@ -601,6 +601,14 @@
       "analog_power_converters"
     ],
     [
+      "599ef15b-26e0-428d-8ef5-07af053dd866",
+      "opal_kelly_connector"
+    ],
+    [
+      "b46f0eef-d28c-4f08-a388-a78d4b52ff17",
+      "level_shifter"
+    ],
+    [
       "874b0432-656b-449a-aa3c-656187b20544",
       "pin_header"
     ]

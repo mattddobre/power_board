@@ -1690,7 +1690,6 @@
 	)
 	(label "VIN"
 		(at 100.33 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1700,19 +1699,7 @@
 		(uuid "058ec0b6-900b-4ef3-8e76-ba2d90a546f8")
 	)
 	(label "VIN"
-		(at 107.95 31.75 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "05a24e45-4a69-4a28-83d2-78a2172fd13f")
-	)
-	(label "VIN"
 		(at 157.48 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1723,7 +1710,6 @@
 	)
 	(label "VCCA25"
 		(at 205.74 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1734,7 +1720,6 @@
 	)
 	(label "VCCA12"
 		(at 73.66 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1745,7 +1730,6 @@
 	)
 	(label "VIN"
 		(at 25.4 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1756,7 +1740,6 @@
 	)
 	(label "VCCA18"
 		(at 72.39 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1767,7 +1750,6 @@
 	)
 	(label "VIN"
 		(at 157.48 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1778,7 +1760,6 @@
 	)
 	(label "VCCA33"
 		(at 205.74 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1789,7 +1770,6 @@
 	)
 	(label "VIN"
 		(at 24.13 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1800,7 +1780,6 @@
 	)
 	(label "VCCA09"
 		(at 129.54 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2054,7 +2033,6 @@
 	(hierarchical_label "VCCA18"
 		(shape input)
 		(at 99.06 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2066,7 +2044,6 @@
 	(hierarchical_label "VCCA33"
 		(shape input)
 		(at 231.14 115.57 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2078,7 +2055,6 @@
 	(hierarchical_label "VCCA12"
 		(shape input)
 		(at 100.33 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2090,7 +2066,6 @@
 	(hierarchical_label "VCCA09"
 		(shape input)
 		(at 147.32 29.21 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2102,7 +2077,6 @@
 	(hierarchical_label "VCCA25"
 		(shape input)
 		(at 231.14 78.74 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2114,7 +2088,6 @@
 	(hierarchical_label "VIN"
 		(shape input)
 		(at 92.71 29.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
