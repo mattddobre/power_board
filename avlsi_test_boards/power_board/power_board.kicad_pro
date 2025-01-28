@@ -605,12 +605,36 @@
       "opal_kelly_connector"
     ],
     [
+      "874b0432-656b-449a-aa3c-656187b20544",
+      "pin_header"
+    ],
+    [
       "b46f0eef-d28c-4f08-a388-a78d4b52ff17",
       "level_shifter"
     ],
     [
-      "874b0432-656b-449a-aa3c-656187b20544",
-      "pin_header"
+      "63f012c2-777e-43e4-a4b4-9dcf3257c287",
+      "level_shifter1"
+    ],
+    [
+      "1a38579b-0da1-4e12-b278-db1be7afd6fe",
+      "level_shifter2"
+    ],
+    [
+      "e9d44b15-eb83-40c6-b1cd-3d6992358ab9",
+      "level_shifter3"
+    ],
+    [
+      "4c3a7492-6202-4b1c-8ee5-b108048c5861",
+      "level_shifter4"
+    ],
+    [
+      "e9f6d2d1-04f0-4cbc-9039-3c30a97dcae8",
+      "level_shifter5"
+    ],
+    [
+      "d0055942-6091-4068-ac6d-ae7a9d608a91",
+      "level_shifter6"
     ]
   ],
   "text_variables": {}
