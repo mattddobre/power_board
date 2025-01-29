@@ -1731,7 +1731,7 @@
 			)
 		)
 	)
-	(global_label "SYS_CKL_MC1"
+	(global_label "SYS_CLK_MC1"
 		(shape input)
 		(at 222.25 40.64 180)
 		(fields_autoplaced yes)
