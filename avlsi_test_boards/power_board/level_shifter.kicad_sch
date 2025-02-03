@@ -1720,6 +1720,7 @@
 	)
 	(label "GND"
 		(at 158.75 99.06 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1730,6 +1731,7 @@
 	)
 	(label "GND"
 		(at 158.75 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1740,6 +1742,7 @@
 	)
 	(label "GND"
 		(at 74.93 114.3 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1750,6 +1753,7 @@
 	)
 	(label "VCCB"
 		(at 74.93 106.68 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1760,6 +1764,7 @@
 	)
 	(label "GND"
 		(at 74.93 71.12 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1770,6 +1775,7 @@
 	)
 	(label "VCCB"
 		(at 74.93 78.74 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1780,6 +1786,7 @@
 	)
 	(label "DIR1"
 		(at 74.93 63.5 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1790,6 +1797,7 @@
 	)
 	(label "GND"
 		(at 158.75 86.36 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1800,6 +1808,7 @@
 	)
 	(label "GND"
 		(at 41.91 179.07 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1810,6 +1819,7 @@
 	)
 	(label "VCCB"
 		(at 44.45 85.09 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1820,6 +1830,7 @@
 	)
 	(label "GND"
 		(at 74.93 86.36 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1830,6 +1841,7 @@
 	)
 	(label "GND"
 		(at 74.93 99.06 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1840,6 +1852,7 @@
 	)
 	(label "DIR2"
 		(at 74.93 121.92 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1850,6 +1863,7 @@
 	)
 	(label "VCCA"
 		(at 158.75 78.74 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1860,6 +1874,7 @@
 	)
 	(label "GND"
 		(at 158.75 114.3 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1870,6 +1885,7 @@
 	)
 	(label "VCCA"
 		(at 158.75 106.68 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1880,6 +1896,7 @@
 	)
 	(label "VCCA"
 		(at 242.57 82.55 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2001,6 +2018,7 @@
 	(hierarchical_label "2B2"
 		(shape input)
 		(at 86.36 96.52 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2012,6 +2030,7 @@
 	(hierarchical_label "1A6"
 		(shape input)
 		(at 147.32 83.82 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2023,6 +2042,7 @@
 	(hierarchical_label "1A5"
 		(shape input)
 		(at 147.32 81.28 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2034,6 +2054,7 @@
 	(hierarchical_label "2B7"
 		(shape input)
 		(at 86.36 116.84 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2045,6 +2066,7 @@
 	(hierarchical_label "2B1"
 		(shape input)
 		(at 86.36 93.98 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2056,6 +2078,7 @@
 	(hierarchical_label "2A1"
 		(shape input)
 		(at 147.32 93.98 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2067,6 +2090,7 @@
 	(hierarchical_label "1B1"
 		(shape input)
 		(at 86.36 66.04 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2078,6 +2102,7 @@
 	(hierarchical_label "1A8"
 		(shape input)
 		(at 147.32 91.44 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2089,6 +2114,7 @@
 	(hierarchical_label "1A4"
 		(shape input)
 		(at 147.32 76.2 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2100,6 +2126,7 @@
 	(hierarchical_label "2B6"
 		(shape input)
 		(at 86.36 111.76 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2111,6 +2138,7 @@
 	(hierarchical_label "1B8"
 		(shape input)
 		(at 86.36 91.44 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2122,6 +2150,7 @@
 	(hierarchical_label "2B4"
 		(shape input)
 		(at 86.36 104.14 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2133,6 +2162,7 @@
 	(hierarchical_label "1B7"
 		(shape input)
 		(at 86.36 88.9 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2144,6 +2174,7 @@
 	(hierarchical_label "2A2"
 		(shape input)
 		(at 147.32 96.52 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2155,6 +2186,7 @@
 	(hierarchical_label "1B3"
 		(shape input)
 		(at 86.36 73.66 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2166,6 +2198,7 @@
 	(hierarchical_label "2B5"
 		(shape input)
 		(at 86.36 109.22 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2177,6 +2210,7 @@
 	(hierarchical_label "1A1"
 		(shape input)
 		(at 147.32 66.04 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2188,6 +2222,7 @@
 	(hierarchical_label "1B6"
 		(shape input)
 		(at 86.36 83.82 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2199,6 +2234,7 @@
 	(hierarchical_label "1A3"
 		(shape input)
 		(at 147.32 73.66 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2210,6 +2246,7 @@
 	(hierarchical_label "2A8"
 		(shape input)
 		(at 147.32 119.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2221,6 +2258,7 @@
 	(hierarchical_label "1B4"
 		(shape input)
 		(at 86.36 76.2 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2232,6 +2270,7 @@
 	(hierarchical_label "2B8"
 		(shape input)
 		(at 86.36 119.38 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2243,6 +2282,7 @@
 	(hierarchical_label "1B5"
 		(shape input)
 		(at 86.36 81.28 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2254,6 +2294,7 @@
 	(hierarchical_label "1A7"
 		(shape input)
 		(at 147.32 88.9 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2265,6 +2306,7 @@
 	(hierarchical_label "2A3"
 		(shape input)
 		(at 147.32 101.6 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2276,6 +2318,7 @@
 	(hierarchical_label "1A2"
 		(shape input)
 		(at 147.32 68.58 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2287,6 +2330,7 @@
 	(hierarchical_label "2A5"
 		(shape input)
 		(at 147.32 109.22 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2298,6 +2342,7 @@
 	(hierarchical_label "2B3"
 		(shape input)
 		(at 86.36 101.6 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2309,6 +2354,7 @@
 	(hierarchical_label "2A4"
 		(shape input)
 		(at 147.32 104.14 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2320,6 +2366,7 @@
 	(hierarchical_label "2A6"
 		(shape input)
 		(at 147.32 111.76 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2331,6 +2378,7 @@
 	(hierarchical_label "1B2"
 		(shape input)
 		(at 86.36 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2342,6 +2390,7 @@
 	(hierarchical_label "2A7"
 		(shape input)
 		(at 147.32 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

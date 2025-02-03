@@ -2721,6 +2721,7 @@
 	)
 	(label "VCCD25"
 		(at 248.92 124.46 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2731,6 +2732,7 @@
 	)
 	(label "VCCD33"
 		(at 248.92 127 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2741,6 +2743,7 @@
 	)
 	(label "VCCD33"
 		(at 100.33 153.67 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2751,6 +2754,7 @@
 	)
 	(label "S2"
 		(at 231.14 62.23 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2761,6 +2765,7 @@
 	)
 	(label "VCCD18"
 		(at 248.92 121.92 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2771,6 +2776,7 @@
 	)
 	(label "VCCD25"
 		(at 100.33 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2781,6 +2787,7 @@
 	)
 	(label "VCCD12"
 		(at 248.92 119.38 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2791,6 +2798,7 @@
 	)
 	(label "VCCD09"
 		(at 248.92 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2801,6 +2809,7 @@
 	)
 	(label "S0"
 		(at 182.88 124.46 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2811,6 +2820,7 @@
 	)
 	(label "S2"
 		(at 182.88 129.54 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2821,6 +2831,7 @@
 	)
 	(label "S0"
 		(at 231.14 67.31 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2831,6 +2842,7 @@
 	)
 	(label "S1"
 		(at 182.88 127 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2841,6 +2853,7 @@
 	)
 	(label "VCCD12"
 		(at 101.6 38.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2851,6 +2864,7 @@
 	)
 	(label "S1"
 		(at 231.14 64.77 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2861,6 +2875,7 @@
 	)
 	(label "VCCD18"
 		(at 100.33 74.93 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3422,6 +3437,7 @@
 	(hierarchical_label "VCCD18"
 		(shape input)
 		(at 119.38 74.93 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3433,6 +3449,7 @@
 	(hierarchical_label "VCCD25"
 		(shape input)
 		(at 116.84 116.84 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3444,6 +3461,7 @@
 	(hierarchical_label "VCCD09"
 		(shape input)
 		(at 116.84 180.34 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3455,6 +3473,7 @@
 	(hierarchical_label "VCCD33"
 		(shape input)
 		(at 118.11 153.67 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3466,6 +3485,7 @@
 	(hierarchical_label "VCCD12"
 		(shape input)
 		(at 120.65 38.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

@@ -7808,7 +7808,7 @@
 			(uuid "12a15f1b-a5ed-4aa6-bd48-339a897a1939")
 		)
 		(instances
-			(project ""
+			(project "power_board"
 				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/599ef15b-26e0-428d-8ef5-07af053dd866"
 					(reference "R4")
 					(unit 1)
