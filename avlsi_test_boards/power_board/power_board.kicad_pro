@@ -617,31 +617,27 @@
       "pin_header"
     ],
     [
-      "b46f0eef-d28c-4f08-a388-a78d4b52ff17",
-      "level_shifter"
-    ],
-    [
       "63f012c2-777e-43e4-a4b4-9dcf3257c287",
       "level_shifter1"
     ],
     [
-      "1a38579b-0da1-4e12-b278-db1be7afd6fe",
+      "7b3a359b-12e6-4bfd-b852-397ecb1027cf",
       "level_shifter2"
     ],
     [
-      "e9d44b15-eb83-40c6-b1cd-3d6992358ab9",
+      "af05dc07-6cdd-4ec3-bfc1-23e8e93734d3",
       "level_shifter3"
     ],
     [
-      "4c3a7492-6202-4b1c-8ee5-b108048c5861",
+      "f6ff85cc-fe63-420d-82b9-834791795be1",
       "level_shifter4"
     ],
     [
-      "e9f6d2d1-04f0-4cbc-9039-3c30a97dcae8",
+      "2e447a60-f813-4a59-8b08-8609420376b2",
       "level_shifter5"
     ],
     [
-      "d0055942-6091-4068-ac6d-ae7a9d608a91",
+      "e66499c6-d329-4357-83eb-64cc305fd8b3",
       "level_shifter6"
     ]
   ],
