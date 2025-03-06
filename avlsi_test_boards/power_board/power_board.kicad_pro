@@ -217,18 +217,6 @@
           "drill": 0.0
         },
         {
-          "diameter": 0.25,
-          "drill": 0.15
-        },
-        {
-          "diameter": 0.3,
-          "drill": 0.2
-        },
-        {
-          "diameter": 0.5,
-          "drill": 0.25
-        },
-        {
           "diameter": 0.8,
           "drill": 0.4
         }
@@ -461,8 +449,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "avlsi_preferred_parts"
+    ],
+    "pinned_symbol_libs": [
+      "avlsi_preferred_parts"
+    ]
   },
   "meta": {
     "filename": "power_board.kicad_pro",
@@ -630,28 +622,32 @@
       "pin_header"
     ],
     [
-      "63f012c2-777e-43e4-a4b4-9dcf3257c287",
-      "level_shifter1"
+      "7642d56c-f0aa-4fb2-8f7f-9993a9b88b12",
+      "level_shifters"
     ],
     [
-      "7b3a359b-12e6-4bfd-b852-397ecb1027cf",
-      "level_shifter2"
+      "588a0c7f-f3ac-4b31-8803-8430cb5f3d23",
+      "level_shifter7"
     ],
     [
-      "af05dc07-6cdd-4ec3-bfc1-23e8e93734d3",
-      "level_shifter3"
+      "c9abeb14-36a8-44e3-8edd-21103875cb73",
+      "level_shifter8"
     ],
     [
-      "f6ff85cc-fe63-420d-82b9-834791795be1",
-      "level_shifter4"
+      "c1444948-0f0a-4120-abf7-6b407fc45ca7",
+      "level_shifter9"
     ],
     [
-      "2e447a60-f813-4a59-8b08-8609420376b2",
-      "level_shifter5"
+      "e8a02ddd-fcb0-4e0a-acf5-ec023820ec49",
+      "level_shifter10"
     ],
     [
-      "e66499c6-d329-4357-83eb-64cc305fd8b3",
-      "level_shifter6"
+      "727fb49d-6f01-4f4a-b15c-7e00f43206ba",
+      "level_shifter11"
+    ],
+    [
+      "6ae101d3-dd6e-4a14-ae67-1674728c5c28",
+      "level_shifter12"
     ]
   ],
   "text_variables": {}

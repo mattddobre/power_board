@@ -1,4 +1,4 @@
-23970309570193348
+24023761115576449
 2_DS
 24549853
 2454985-3-1
@@ -96509,6 +96509,20 @@ opal_kelly_XEM7310_header
 160
 160
 avlsi_preferred_parts
+416131160812
+
+
+0
+24
+24
+avlsi_preferred_parts
+100mm_board
+
+
+0
+12
+4
+avlsi_preferred_parts
 225PRS1500112
 225-PRS15001-12-5
 Connector
@@ -96551,6 +96565,20 @@ SN74LVC16T245DLR
 48
 48
 avlsi_preferred_parts
+MOLEX_2171750001
+
+
+0
+10
+10
+avlsi_preferred_parts
+SAMTEC_BSE-040-01-X-D-A
+
+
+0
+80
+80
+avlsi_preferred_parts
 SAMTEC_BTE-040-01-F-D-A
 
 
@@ -96583,8 +96611,8 @@ avlsi_power_board_opal_kelly
 
 
 0
-188
-188
+187
+187
 avlsi_preferred_parts
 opal_kelly_XEM7310_header
 
@@ -96592,6 +96620,13 @@ opal_kelly_XEM7310_header
 0
 160
 160
+avlsi_preferred_parts
+power_board
+
+
+0
+192
+192
 ds
 DS04-254-2-04BK-SMT_CUD
 
