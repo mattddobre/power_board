@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '2454985_3'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "TE Connectivity", "2454985-3" (!) = "", "24549853", "Other", "2454985-3", "https://www.arrow.com/en/products/2454985-3/te-connectivity?region=nac", "DIP & SIP Switches, Switch, Gold Flash, Black Housing, PA9T, Auto-Insertable, 2 Switch, -40  85 C, DIP Switch, Alcoswitch DIP ADE", "https://www.mouser.com/datasheet/2/418/3/NG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308-1234788.pdf", "4.85 mm"
+END_PART
+
+END.

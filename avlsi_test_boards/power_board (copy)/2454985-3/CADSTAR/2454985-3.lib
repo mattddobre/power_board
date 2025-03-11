@@ -1,0 +1,17 @@
+.2454985-3 :1 ;DIP & SIP Switches, Switch, Gold Flash, Black Housing, PA9T, Auto-Insertable, 2 Switch, -40  85 C, DIP Switch, Alcoswitch DIP ADE
+"24549853"
+*STM S
+*NGS
+*PNM 1=A1 2=A2 3=B1 4=B2
+*PLB 1="A1" 2="A2" 3="B1" 4="B2"
+*MXP 4
+*DFN 2454985-3
+~!Manufacturer_Name (TE Connectivity)
+~!Manufacturer_Part_Number (2454985-3)
+~!Arrow Part Number (2454985-3)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/2454985-3/te-connectivity?region=nac)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/418/3/NG_CS_1308111-1_SWITCHES_CORE_PROGRAM_CATALOG_0308-1234788.pdf)
+~!Height (4.85mm)
+~!3D_Model (2454985-3)
+"2454985-3"
+1.1!U 2.1!U 3.1!U 4.1!U 

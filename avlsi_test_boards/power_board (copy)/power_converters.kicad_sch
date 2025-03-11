@@ -1,0 +1,3257 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "90e85b6e-a791-4baf-944c-9fa80ae453fb")
+	(paper "A4")
+	(lib_symbols
+		(symbol "AVLSI:TLV1117LV12DCYR"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "VR"
+				(at -12.7 6.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "TLV1117LV12DCYR"
+				(at -12.7 -9.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left top)
+				)
+			)
+			(property "Footprint" "avlsi:VREG_TLV1117LV12DCYR"
+				(at -0.254 8.636 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1729704648859&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv1117lv"
+				(at 0 -12.192 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "B"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "1.80 mm"
+				(at 0 2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Texas Instruments"
+				(at 0 -4.572 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "TLV1117LV12DCYR_0_0"
+				(rectangle
+					(start -12.7 5.08)
+					(end 12.7 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 17.78 -5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 2.54 180)
+					(length 5.08)
+					(name "OUT_2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 2.54 0)
+					(length 5.08)
+					(name "IN"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 0 180)
+					(length 5.08)
+					(name "OUT_4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "AVLSI:TLV1117LV18DCYR"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -12.7 8.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "TLV1117LV18DCYR"
+				(at -12.7 -11.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "avlsi:SOT230P700X180-4N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1729704648859&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv1117lv"
+				(at 0.254 -13.462 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TLV1117LV18DCYR_0_0"
+				(rectangle
+					(start -12.7 -7.62)
+					(end 12.7 7.62)
+					(stroke
+						(width 0.41)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 17.78 -5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 2.54 180)
+					(length 5.08)
+					(name "OUT-1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 5.08 0)
+					(length 5.08)
+					(name "IN"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 5.08 180)
+					(length 5.08)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "AVLSI:TLV1117LV25DCYR"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -12.7 8.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "TLV1117LV25DCYR"
+				(at -12.7 -11.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "avlsi:SOT230P700X180-4N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1729704648859&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv1117lv"
+				(at 0.254 -13.97 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TLV1117LV25DCYR_0_0"
+				(rectangle
+					(start -12.7 -7.62)
+					(end 12.7 7.62)
+					(stroke
+						(width 0.41)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 17.78 -5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 2.54 180)
+					(length 5.08)
+					(name "OUT-1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 5.08 0)
+					(length 5.08)
+					(name "IN"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 5.08 180)
+					(length 5.08)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "AVLSI:TLV1117LV33DCYR"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -12.7 8.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "TLV1117LV33DCYR"
+				(at -12.7 -11.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "avlsi:VREG_TLV1117LV33DCYR"
+				(at -0.254 -4.064 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1729704648859&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv1117lv"
+				(at 1.27 -13.716 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "B"
+				(at 0 2.286 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "IPC-7351B"
+				(at 0.254 4.572 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "1.80 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Texas Instruments"
+				(at 0 -1.524 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "TLV1117LV33DCYR_0_0"
+				(rectangle
+					(start -12.7 7.62)
+					(end 12.7 -7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin power_in line
+					(at 17.78 -5.08 180)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 5.08 180)
+					(length 5.08)
+					(name "OUT_2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -17.78 5.08 0)
+					(length 5.08)
+					(name "IN"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 17.78 2.54 180)
+					(length 5.08)
+					(name "OUT_4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Device:C"
+			(pin_numbers hide)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_0_1"
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Regulator_Linear:TLV75709PDBV"
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -3.81 5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TLV75709PDBV"
+				(at 0 5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+				(at 0 8.255 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv757p.pdf"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "1A Low IQ Small Size Low Dropout Voltage Regulator, Fixed Output 0.9V, SOT-23-5"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "LDO Regulator Fixed Positive"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOT?23*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TLV75709PDBV_0_1"
+				(rectangle
+					(start -5.08 4.445)
+					(end 5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "TLV75709PDBV_1_1"
+				(pin power_in line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "IN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -7.62 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "EN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin no_connect line
+					(at 5.08 0 180)
+					(length 2.54) hide
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_out line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "OUT"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+	)
+	(junction
+		(at 100.33 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "05d0edc4-31bd-4f58-8510-a3fbf5597f0c")
+	)
+	(junction
+		(at 189.23 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "15308970-864f-4866-b568-bdf590e05708")
+	)
+	(junction
+		(at 189.23 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "188dd897-2382-4aee-96de-093c3a83b698")
+	)
+	(junction
+		(at 109.22 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "23a7d945-b7d2-43aa-a4cc-900dfe20bbec")
+	)
+	(junction
+		(at 156.21 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "31b5bf6c-42d9-43aa-aa5d-d2ef5606574e")
+	)
+	(junction
+		(at 99.06 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b3fbc39-7230-4726-91d0-a459e5b850e2")
+	)
+	(junction
+		(at 232.41 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5b84ecd6-e4ce-4db7-adb7-655406f6cb13")
+	)
+	(junction
+		(at 107.95 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "62bdb089-cd7a-4357-8968-7306b515c280")
+	)
+	(junction
+		(at 232.41 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6a03624a-2e76-456d-8ffc-969d79c65fd2")
+	)
+	(junction
+		(at 107.95 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "730ada5c-1faf-41ea-9f03-4ba1a9daed7e")
+	)
+	(junction
+		(at 55.88 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8776b555-0620-4869-a54d-00c6152fa2c6")
+	)
+	(junction
+		(at 134.62 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c613dd3-eaeb-4467-8284-4290351ceb61")
+	)
+	(junction
+		(at 57.15 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93fe5154-cb65-4ff0-bc7c-fe045ffa83b6")
+	)
+	(junction
+		(at 241.3 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "97f20759-2e60-4a7e-a7e5-787495a1051b")
+	)
+	(junction
+		(at 241.3 77.47)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9b1c46d-9171-4f5e-9a78-653e7800c592")
+	)
+	(junction
+		(at 109.22 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ad61620d-2617-44e6-ad91-d4bb22a86856")
+	)
+	(junction
+		(at 241.3 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dd1c3e61-e9e8-44de-8fe4-5cd6a8a78ee6")
+	)
+	(junction
+		(at 241.3 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ddfbf26c-cbcd-46e9-9592-59ac3b1b2531")
+	)
+	(junction
+		(at 127 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ec0fb6d0-54de-464a-86ce-3c9808a08ffa")
+	)
+	(wire
+		(pts
+			(xy 189.23 78.74) (xy 189.23 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05745329-7e6a-49d2-b260-9b7c0bea5a07")
+	)
+	(wire
+		(pts
+			(xy 184.15 90.17) (xy 189.23 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d0d091c-2aa1-40f0-82b7-659edcb48ea1")
+	)
+	(wire
+		(pts
+			(xy 241.3 77.47) (xy 241.3 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15f9d180-4ace-4f6d-8168-b9e5ed321760")
+	)
+	(wire
+		(pts
+			(xy 232.41 77.47) (xy 232.41 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19241bb1-8842-400f-9178-a0e37f851866")
+	)
+	(wire
+		(pts
+			(xy 232.41 77.47) (xy 241.3 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b632d9a-4eb8-4364-b792-ee05af17a600")
+	)
+	(wire
+		(pts
+			(xy 100.33 77.47) (xy 100.33 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c821735-45cf-4d07-b084-6ce34ea8e179")
+	)
+	(wire
+		(pts
+			(xy 134.62 27.94) (xy 134.62 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d634aa4-4b1d-444e-9eec-7b9f136c795f")
+	)
+	(wire
+		(pts
+			(xy 241.3 114.3) (xy 241.3 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e0c8d4a-d57c-42d3-ba1b-69e5c942f1e0")
+	)
+	(wire
+		(pts
+			(xy 99.06 124.46) (xy 107.95 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29557103-d01c-4c5d-9f0c-cdada8cc330f")
+	)
+	(wire
+		(pts
+			(xy 189.23 115.57) (xy 189.23 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b56e27d-cdeb-4594-a639-f662bfda3c3b")
+	)
+	(wire
+		(pts
+			(xy 109.22 86.36) (xy 109.22 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2cca95bb-a078-483e-969e-1eae03452402")
+	)
+	(wire
+		(pts
+			(xy 119.38 27.94) (xy 127 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e212856-eccd-4ca5-b344-5e76b767de9f")
+	)
+	(wire
+		(pts
+			(xy 57.15 77.47) (xy 64.77 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3930148c-ad56-4f6e-9840-920d8e75e391")
+	)
+	(wire
+		(pts
+			(xy 134.62 27.94) (xy 135.89 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bc88015-bb65-42bc-8757-e128681eb5c4")
+	)
+	(wire
+		(pts
+			(xy 99.06 114.3) (xy 107.95 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ec685e5-869d-4d1b-9900-63916c637349")
+	)
+	(wire
+		(pts
+			(xy 107.95 123.19) (xy 107.95 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ee9b720-ec3e-4840-930a-268b75800081")
+	)
+	(wire
+		(pts
+			(xy 100.33 77.47) (xy 109.22 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41cc7a83-05f3-46b4-8717-8dc4eb6a3610")
+	)
+	(wire
+		(pts
+			(xy 184.15 114.3) (xy 189.23 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "47d2734a-c533-415c-915e-9078b10df2d3")
+	)
+	(wire
+		(pts
+			(xy 107.95 114.3) (xy 107.95 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c35cadc-36d2-4a93-b327-e8ae879fca46")
+	)
+	(wire
+		(pts
+			(xy 50.8 127) (xy 55.88 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "528c421f-b25f-4b04-ac3e-4331e2bdd60a")
+	)
+	(wire
+		(pts
+			(xy 156.21 27.94) (xy 173.99 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c20ba6f-5d15-4cfa-aa25-a94773b3643c")
+	)
+	(wire
+		(pts
+			(xy 241.3 114.3) (xy 257.81 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dfab45c-46ac-48c7-9801-ea22f8b0c0f9")
+	)
+	(wire
+		(pts
+			(xy 241.3 86.36) (xy 241.3 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "638a9c14-a338-401c-ba8a-9289d5c86621")
+	)
+	(wire
+		(pts
+			(xy 189.23 123.19) (xy 189.23 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64022665-7c81-4911-80c5-2a0bcc13c111")
+	)
+	(wire
+		(pts
+			(xy 127 29.21) (xy 127 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6aa58ef8-23f3-438c-b3ca-e732e7a97061")
+	)
+	(wire
+		(pts
+			(xy 151.13 27.94) (xy 156.21 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b84544a-4b71-4b7c-8475-00d7f8c04412")
+	)
+	(wire
+		(pts
+			(xy 156.21 27.94) (xy 156.21 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7136d5e5-7679-41d3-a934-2ab5488c6527")
+	)
+	(wire
+		(pts
+			(xy 55.88 123.19) (xy 55.88 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "716fd73f-2a79-4226-b2b4-87559f92a908")
+	)
+	(wire
+		(pts
+			(xy 107.95 124.46) (xy 107.95 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "729e1e2f-7f3b-4220-955d-c08e78828916")
+	)
+	(wire
+		(pts
+			(xy 241.3 87.63) (xy 241.3 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7633869f-7664-4d30-86ef-cd6afb47b463")
+	)
+	(wire
+		(pts
+			(xy 52.07 77.47) (xy 57.15 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79c207a3-af64-47ff-b257-56748424da71")
+	)
+	(wire
+		(pts
+			(xy 57.15 86.36) (xy 57.15 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bdc8db8-0726-49c3-b5a8-bde16156d0f0")
+	)
+	(wire
+		(pts
+			(xy 127 27.94) (xy 134.62 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80ce8fe0-b12b-4d6f-82ea-198cf563fba9")
+	)
+	(wire
+		(pts
+			(xy 156.21 36.83) (xy 156.21 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86a671f5-b0db-43f6-b0c0-c23c8cb186f5")
+	)
+	(wire
+		(pts
+			(xy 241.3 77.47) (xy 257.81 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "885a40a4-c9d6-4472-ae09-f2d0b35bb363")
+	)
+	(wire
+		(pts
+			(xy 189.23 114.3) (xy 196.85 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89a156c7-d5f1-47b9-af16-f92fa5a18053")
+	)
+	(wire
+		(pts
+			(xy 100.33 85.09) (xy 100.33 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fdf3e83-1ac0-43b9-9cbb-efd0d9fc15f1")
+	)
+	(wire
+		(pts
+			(xy 232.41 124.46) (xy 241.3 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "927694f7-110e-4dc9-a6f8-5c80ce87e7db")
+	)
+	(wire
+		(pts
+			(xy 184.15 77.47) (xy 189.23 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "940058ce-66d3-48df-9df9-7e9ce0d424f6")
+	)
+	(wire
+		(pts
+			(xy 109.22 77.47) (xy 109.22 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "976894bd-6df5-4e26-b747-8b040789d18b")
+	)
+	(wire
+		(pts
+			(xy 50.8 114.3) (xy 55.88 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f16de7c-6556-4c9b-b168-d5fc2dff46d6")
+	)
+	(wire
+		(pts
+			(xy 99.06 114.3) (xy 99.06 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a08c4cba-9303-48af-8910-5d03744f7235")
+	)
+	(wire
+		(pts
+			(xy 189.23 77.47) (xy 196.85 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a17bd2e0-02a9-4b75-bacf-235870995ab7")
+	)
+	(wire
+		(pts
+			(xy 232.41 87.63) (xy 241.3 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a648fe87-00e9-479d-9340-8e7747df58a0")
+	)
+	(wire
+		(pts
+			(xy 107.95 114.3) (xy 125.73 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abaef316-721c-4a3a-9b2c-efbc8fe5535f")
+	)
+	(wire
+		(pts
+			(xy 109.22 77.47) (xy 127 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac1835d8-6706-4417-b510-4177e81402b8")
+	)
+	(wire
+		(pts
+			(xy 127 36.83) (xy 127 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "adb8c1a9-1ba5-448f-8e8a-7e631847f272")
+	)
+	(wire
+		(pts
+			(xy 52.07 90.17) (xy 57.15 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1a72c1d-5e5c-4617-9d31-8628e5a96392")
+	)
+	(wire
+		(pts
+			(xy 109.22 87.63) (xy 109.22 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bad9092e-120d-47be-9a1a-27b5d1c5e623")
+	)
+	(wire
+		(pts
+			(xy 241.3 124.46) (xy 241.3 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd2a87b2-620b-4195-84a2-22155f8317d7")
+	)
+	(wire
+		(pts
+			(xy 189.23 86.36) (xy 189.23 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf7e611a-6bc2-42a1-88b8-d443a678d4e6")
+	)
+	(wire
+		(pts
+			(xy 143.51 38.1) (xy 143.51 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c75a25dd-1b64-4ede-b650-2773006886a7")
+	)
+	(wire
+		(pts
+			(xy 55.88 115.57) (xy 55.88 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd52e358-9883-4d7c-a02b-30f1dd833702")
+	)
+	(wire
+		(pts
+			(xy 55.88 114.3) (xy 63.5 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d854a1fc-1105-4f2c-8bff-6034e093f553")
+	)
+	(wire
+		(pts
+			(xy 241.3 123.19) (xy 241.3 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd7cd32d-653c-4af6-8882-a35eac2e44a7")
+	)
+	(wire
+		(pts
+			(xy 232.41 114.3) (xy 241.3 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dffa0ef2-f77e-4059-9b18-22ae7ef543f7")
+	)
+	(wire
+		(pts
+			(xy 57.15 78.74) (xy 57.15 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5141fa1-10e6-4f86-a72b-43ce2d2b074e")
+	)
+	(wire
+		(pts
+			(xy 134.62 30.48) (xy 135.89 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7e29da1-f92c-47b6-bc8d-cba83446b005")
+	)
+	(wire
+		(pts
+			(xy 232.41 114.3) (xy 232.41 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea4020df-e53c-49d3-a936-bb2270a80567")
+	)
+	(wire
+		(pts
+			(xy 184.15 127) (xy 189.23 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f43458e8-c4aa-41ea-9404-e579e8d8d6b8")
+	)
+	(wire
+		(pts
+			(xy 120.65 40.64) (xy 127 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7afd6fa-3727-4487-aa70-becbe478ac36")
+	)
+	(wire
+		(pts
+			(xy 100.33 87.63) (xy 109.22 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9f59b1a-3c75-4214-a4be-caed26d4985c")
+	)
+	(label "VIN"
+		(at 127 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "058ec0b6-900b-4ef3-8e76-ba2d90a546f8")
+	)
+	(label "VIN"
+		(at 184.15 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "074538eb-9a42-4803-b1e6-648ecd8a4783")
+	)
+	(label "VCCA25"
+		(at 232.41 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2cc49d4d-b74c-411a-a193-c14e2a861052")
+	)
+	(label "VCCA12"
+		(at 100.33 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "410811d4-aa46-4e32-9337-38fb870e73d5")
+	)
+	(label "VIN"
+		(at 52.07 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "45b14a37-eb73-47c4-a2c9-4f89598a1b9a")
+	)
+	(label "VCCA18"
+		(at 99.06 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "56d7b929-b82d-4259-b2ef-320d7903064c")
+	)
+	(label "VIN"
+		(at 184.15 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "686cac98-39af-47df-b02d-fddb6062ac0e")
+	)
+	(label "VCCA33"
+		(at 232.41 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c39b537-6895-474d-9d25-42acc7179e2e")
+	)
+	(label "VIN"
+		(at 50.8 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cc015506-3080-471b-a81b-55d8dae26c7e")
+	)
+	(label "VCCA09"
+		(at 156.21 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f977011e-060d-4a9c-89f9-c9f577a30b16")
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 156.21 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "14f13c74-63ed-45fe-a002-0786ec0c5be2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 146.9957 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 241.3 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1fa3b768-5b4f-44f0-9d83-4255e00b5380")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 232.0857 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 107.95 129.54 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "52dff601-91b5-4fc1-8ffe-b550cf807c3f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.7357 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 52.07 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "73bd64d2-3af2-42c1-a35b-bbac5c87ac92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 42.8557 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 120.65 40.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7c219963-bb88-4e6e-9149-5a3c5f885ded")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 111.4357 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 109.22 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "97585274-c593-4a5f-b46b-9bf3fd574f7f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 100.0057 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 241.3 92.71 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a0b90fc6-8cd7-40ad-80f3-8ad2b4e6167a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 232.0857 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 50.8 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d4d27e50-cbb8-4f84-83cd-573ad3d81b59")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 41.5857 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 143.51 43.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e8036357-735c-40af-9e90-8f7705fb0ed0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 134.2957 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 184.15 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ead00e67-1078-40a8-bb7d-6202bd1b70e3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 174.9357 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ADGND"
+		(shape input)
+		(at 184.15 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed8a1a1a-44a3-4218-aa7a-45916a8a9de0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 174.9357 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(hierarchical_label "VCCA18"
+		(shape input)
+		(at 125.73 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "28c1c199-ba49-4c13-8bcd-f994ffd2ce0a")
+	)
+	(hierarchical_label "VCCA33"
+		(shape input)
+		(at 257.81 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8e469755-6e18-4893-bd5c-b673d7984632")
+	)
+	(hierarchical_label "VCCA12"
+		(shape input)
+		(at 127 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9594594e-1cdc-4ba0-9b25-330aea25737d")
+	)
+	(hierarchical_label "VCCA09"
+		(shape input)
+		(at 173.99 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b1782b9d-df27-43a4-8d9f-1bb0d5fd2f59")
+	)
+	(hierarchical_label "VCCA25"
+		(shape input)
+		(at 257.81 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cb2ef144-373b-4717-b059-52c99b50b706")
+	)
+	(hierarchical_label "VIN"
+		(shape input)
+		(at 119.38 27.94 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f9f216dd-a2a1-4fb4-a367-967359d7bc57")
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 55.88 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "16e3e6a3-abf6-4b87-a7f3-e92096e4dcc4")
+		(property "Reference" "C31"
+			(at 59.69 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 59.69 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 56.8452 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 55.88 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 55.88 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "11b6786d-e354-4ad1-8762-07a04e72f2f4")
+		)
+		(pin "2"
+			(uuid "3001dca1-6ab0-4390-a389-f862a3b59615")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C31")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Regulator_Linear:TLV75709PDBV")
+		(at 143.51 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "71b54d34-d282-4919-b15b-49f7a534ffaa")
+		(property "Reference" "U6"
+			(at 143.51 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "TLV75709PDBV"
+			(at 143.51 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+			(at 143.51 22.225 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv757p.pdf"
+			(at 143.51 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "1A Low IQ Small Size Low Dropout Voltage Regulator, Fixed Output 0.9V, SOT-23-5"
+			(at 143.51 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b009f714-3ccb-48fa-aab1-33ac0bb8f562")
+		)
+		(pin "2"
+			(uuid "f29830e2-0cc8-4e0e-8741-23453a9eddbb")
+		)
+		(pin "5"
+			(uuid "0ca5414b-e34b-4620-87f4-550e746aaf3a")
+		)
+		(pin "4"
+			(uuid "d6701534-8654-480d-b213-38c476eb13c7")
+		)
+		(pin "3"
+			(uuid "e6f59689-e667-4868-babe-bdb48d0fd64d")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVLSI:TLV1117LV12DCYR")
+		(at 82.55 80.01 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "84ed7d06-1c2c-4dea-ac6a-18f787dd772e")
+		(property "Reference" "VR2"
+			(at 82.55 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TLV1117LV12DCYR"
+			(at 82.55 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "avlsi:VREG_TLV1117LV12DCYR"
+			(at 82.296 71.374 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1729704648859&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv1117lv"
+			(at 82.55 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 82.55 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "B"
+			(at 82.55 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 82.55 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.80 mm"
+			(at 82.55 77.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Texas Instruments"
+			(at 82.55 84.582 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1395a1b2-06cb-4157-9db2-a0010c970504")
+		)
+		(pin "3"
+			(uuid "6667c4fe-b113-43f4-bcb7-c6cd527e8ba2")
+		)
+		(pin "4"
+			(uuid "cf80754f-fd69-45e7-b671-ca5a6401599c")
+		)
+		(pin "1"
+			(uuid "a2102ba4-0af7-4f7f-8467-26b86a389718")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "VR2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVLSI:TLV1117LV25DCYR")
+		(at 214.63 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8f0fe48e-4580-4dec-9c23-39d11709df0e")
+		(property "Reference" "U7"
+			(at 214.63 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TLV1117LV25DCYR"
+			(at 214.63 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "avlsi:SOT230P700X180-4N"
+			(at 214.63 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1729704648859&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv1117lv"
+			(at 214.63 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 214.63 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "c8413aa0-9260-4447-acdb-3caef337d589")
+		)
+		(pin "1"
+			(uuid "2d403f3c-4eda-4a53-ad39-b9deecb16cba")
+		)
+		(pin "2"
+			(uuid "d9f82e37-4356-4833-8a78-a82a15874888")
+		)
+		(pin "3"
+			(uuid "bbd49d04-a508-4c07-b5ed-386233a073b3")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 241.3 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90b7442f-6c95-4ddc-a438-c94f86a8e79f")
+		(property "Reference" "C51"
+			(at 245.11 81.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 245.11 83.8199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 242.2652 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 241.3 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 241.3 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2cbb2a45-75b9-49a8-b208-28b2b5c6186d")
+		)
+		(pin "2"
+			(uuid "1bca3ec5-881e-4f75-86c9-942bdee773ca")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 109.22 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a088b3aa-686a-42df-9fae-a89bb220b409")
+		(property "Reference" "C34"
+			(at 113.03 81.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 113.03 83.8199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 110.1852 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 109.22 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 109.22 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a4f586a1-5e6b-482e-9d5a-a00f4ee9d78c")
+		)
+		(pin "2"
+			(uuid "5816005a-9c2a-448c-b582-98c9099f1081")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C34")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 189.23 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a5f9cc95-9524-47fd-8fc4-ed1f442ab311")
+		(property "Reference" "C47"
+			(at 193.04 81.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 193.04 83.8199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 190.1952 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 189.23 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 189.23 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "db4426f5-5899-4ff2-a434-81e11cf25e41")
+		)
+		(pin "2"
+			(uuid "a3d00ec2-012d-41d7-8765-0117205edbaf")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 107.95 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c1a7d17b-d123-49ac-9447-a1ad8639922f")
+		(property "Reference" "C33"
+			(at 111.76 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 111.76 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 108.9152 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 107.95 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 107.95 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a2a9fb89-cdd1-4def-a025-c657996b8f14")
+		)
+		(pin "2"
+			(uuid "75fbe10b-ceb0-4287-929e-9a1af1081c90")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C33")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 57.15 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c7011558-b40a-476a-ad73-6c5a87ddc3b8")
+		(property "Reference" "C32"
+			(at 60.96 81.2799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 60.96 83.8199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 58.1152 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 57.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 57.15 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "da6ea979-caa9-4e78-a75b-4aec2e834eb1")
+		)
+		(pin "2"
+			(uuid "d071d678-304b-4daf-8a25-ff09efc37e7a")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVLSI:TLV1117LV18DCYR")
+		(at 81.28 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cd831c4c-73dc-4a14-8ecc-1522a4d26d1d")
+		(property "Reference" "U5"
+			(at 81.28 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TLV1117LV18DCYR"
+			(at 81.28 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "avlsi:SOT230P700X180-4N"
+			(at 81.28 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1729704648859&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv1117lv"
+			(at 81.28 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 81.28 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a1619fd0-7f82-42ce-adce-ca3624f04846")
+		)
+		(pin "1"
+			(uuid "58e9e0f6-1cef-461c-b281-df1e4645a9cd")
+		)
+		(pin "4"
+			(uuid "eaddef64-c45a-461a-802e-83fa1f732227")
+		)
+		(pin "3"
+			(uuid "116d822b-ca11-4f0e-a658-348acd702c73")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "AVLSI:TLV1117LV33DCYR")
+		(at 214.63 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d47dca04-aea5-4391-9e82-73224eb6dcf8")
+		(property "Reference" "U8"
+			(at 214.63 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TLV1117LV33DCYR"
+			(at 214.63 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "avlsi:VREG_TLV1117LV33DCYR"
+			(at 214.376 123.444 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tlv1117lv.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1729704648859&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D10%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti.com%252Flit%252Fgpn%252Ftlv1117lv"
+			(at 214.63 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 214.63 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "B"
+			(at 214.63 117.094 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "IPC-7351B"
+			(at 214.884 114.808 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "1.80 mm"
+			(at 214.63 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Texas Instruments"
+			(at 214.63 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f8d28ea-240f-4703-b4f4-f2373c577978")
+		)
+		(pin "2"
+			(uuid "0aa81f7e-f3b1-43e5-99b3-d703c9e9db29")
+		)
+		(pin "3"
+			(uuid "73b313f4-6a5b-4143-8d34-99b7f77dae24")
+		)
+		(pin "4"
+			(uuid "7c8bdcb3-4cc8-4252-8f61-8c162599c041")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 241.3 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db5ba61b-6486-40bc-af26-f96b4f9db41f")
+		(property "Reference" "C52"
+			(at 245.11 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 245.11 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 242.2652 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 241.3 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 241.3 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "57eef33d-cd68-4ef7-8305-347d1bbff472")
+		)
+		(pin "2"
+			(uuid "fa80b601-db1a-4256-b435-55cdbc8dd22d")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 156.21 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dfbdc2a9-e8ec-4d21-8e57-dfd9b301a3eb")
+		(property "Reference" "C42"
+			(at 160.02 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 160.02 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 157.1752 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 156.21 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 156.21 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5aa72660-0501-4116-bf33-2b4f2b243918")
+		)
+		(pin "2"
+			(uuid "d5ee2096-25ea-4da2-a312-a25a3ce0952a")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 127 33.02 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e4101422-c02b-4a28-ad7f-895eaa2e2ead")
+		(property "Reference" "C37"
+			(at 130.81 31.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 130.81 34.2899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 127.9652 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 127 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 127 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "83dc8511-0076-458e-b59d-5fabb52b5ff7")
+		)
+		(pin "2"
+			(uuid "40820032-2729-4108-87ca-ae69e99331bd")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 189.23 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f007622e-9482-4a53-8869-d180158faf63")
+		(property "Reference" "C48"
+			(at 193.04 118.1099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 193.04 120.6499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 190.1952 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 189.23 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 189.23 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "21c6f61f-f6b6-4096-a4e9-81a0dace30d2")
+		)
+		(pin "2"
+			(uuid "2c81ad7e-bb78-4780-b319-1115767c1489")
+		)
+		(instances
+			(project "power_board"
+				(path "/425e3f4e-d960-41c8-a4b7-4f888de39c97/cc86a133-8c85-4903-a6a6-a8cf8e51aa89"
+					(reference "C48")
+					(unit 1)
+				)
+			)
+		)
+	)
+)
