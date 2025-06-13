@@ -2414,7 +2414,7 @@
 		)
 		(uuid "f53bada4-40af-43cf-a2fd-79e0539943f6")
 	)
-	(global_label "MC1_20_PIN"
+	(global_label "MC2_20_PIN"
 		(shape input)
 		(at 45.72 137.16 180)
 		(fields_autoplaced yes)
@@ -2436,7 +2436,7 @@
 			)
 		)
 	)
-	(global_label "MC1_75_PIN"
+	(global_label "MC2_75_PIN"
 		(shape input)
 		(at 105.41 72.39 180)
 		(fields_autoplaced yes)
@@ -2458,7 +2458,7 @@
 			)
 		)
 	)
-	(global_label "MC2_59"
+	(global_label "MC1_59"
 		(shape input)
 		(at 119.38 132.08 0)
 		(fields_autoplaced yes)
@@ -2480,7 +2480,7 @@
 			)
 		)
 	)
-	(global_label "MC1_52"
+	(global_label "MC2_52"
 		(shape input)
 		(at 120.65 62.23 0)
 		(fields_autoplaced yes)
@@ -2502,7 +2502,7 @@
 			)
 		)
 	)
-	(global_label "MC1_18"
+	(global_label "MC2_18"
 		(shape input)
 		(at 60.96 139.7 0)
 		(fields_autoplaced yes)
@@ -2524,7 +2524,7 @@
 			)
 		)
 	)
-	(global_label "MC1_50_PIN"
+	(global_label "MC2_50_PIN"
 		(shape input)
 		(at 105.41 64.77 180)
 		(fields_autoplaced yes)
@@ -2546,7 +2546,7 @@
 			)
 		)
 	)
-	(global_label "MC2_60_PIN"
+	(global_label "MC1_60_PIN"
 		(shape input)
 		(at 166.37 54.61 180)
 		(fields_autoplaced yes)
@@ -2568,7 +2568,7 @@
 			)
 		)
 	)
-	(global_label "MC2_45"
+	(global_label "MC1_45"
 		(shape input)
 		(at 60.96 69.85 0)
 		(fields_autoplaced yes)
@@ -2590,7 +2590,7 @@
 			)
 		)
 	)
-	(global_label "MC2_43"
+	(global_label "MC1_43"
 		(shape input)
 		(at 60.96 67.31 0)
 		(fields_autoplaced yes)
@@ -2612,7 +2612,7 @@
 			)
 		)
 	)
-	(global_label "MC1_34"
+	(global_label "MC2_34"
 		(shape input)
 		(at 60.96 116.84 0)
 		(fields_autoplaced yes)
@@ -2634,7 +2634,29 @@
 			)
 		)
 	)
-	(global_label "MC1_66"
+	(global_label "MC1_28_PIN"
+		(shape input)
+		(at 165.1 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "115798e9-5831-402f-96d0-4d619c908215")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 150.6244 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MC2_66"
 		(shape input)
 		(at 120.65 44.45 0)
 		(fields_autoplaced yes)
@@ -2656,7 +2678,7 @@
 			)
 		)
 	)
-	(global_label "MC2_23"
+	(global_label "MC1_23"
 		(shape input)
 		(at 60.96 39.37 0)
 		(fields_autoplaced yes)
@@ -2678,9 +2700,9 @@
 			)
 		)
 	)
-	(global_label "MC2_18"
+	(global_label "MC1_18"
 		(shape input)
-		(at 180.34 109.22 0)
+		(at 180.34 104.14 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2690,7 +2712,7 @@
 		)
 		(uuid "130df1f0-940b-45d9-9ef6-0b0d23d47b43")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.6427 109.22 0)
+			(at 190.6427 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2700,29 +2722,7 @@
 			)
 		)
 	)
-	(global_label "MC2_10_PIN"
-		(shape input)
-		(at 165.1 101.6 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "14c27c11-8ce3-4af7-8dc1-f01b9db64422")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.6244 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MC1_41_PIN"
+	(global_label "MC2_41_PIN"
 		(shape input)
 		(at 165.1 127 180)
 		(fields_autoplaced yes)
@@ -2744,7 +2744,7 @@
 			)
 		)
 	)
-	(global_label "MC1_79_PIN"
+	(global_label "MC2_79_PIN"
 		(shape input)
 		(at 105.41 67.31 180)
 		(fields_autoplaced yes)
@@ -2766,7 +2766,7 @@
 			)
 		)
 	)
-	(global_label "MC1_19"
+	(global_label "MC2_19"
 		(shape input)
 		(at 60.96 109.22 0)
 		(fields_autoplaced yes)
@@ -2788,7 +2788,7 @@
 			)
 		)
 	)
-	(global_label "MC2_23_PIN"
+	(global_label "MC1_23_PIN"
 		(shape input)
 		(at 45.72 39.37 180)
 		(fields_autoplaced yes)
@@ -2810,7 +2810,7 @@
 			)
 		)
 	)
-	(global_label "MC2_67"
+	(global_label "MC1_67"
 		(shape input)
 		(at 119.38 109.22 0)
 		(fields_autoplaced yes)
@@ -2832,9 +2832,9 @@
 			)
 		)
 	)
-	(global_label "MC2_16_PIN"
+	(global_label "MC1_16_PIN"
 		(shape input)
-		(at 165.1 106.68 180)
+		(at 165.1 101.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2844,7 +2844,7 @@
 		)
 		(uuid "1a32d943-6c84-4f0e-a5f1-02f94398380d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.6244 106.68 0)
+			(at 150.6244 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2854,7 +2854,7 @@
 			)
 		)
 	)
-	(global_label "MC1_62_PIN"
+	(global_label "MC2_62_PIN"
 		(shape input)
 		(at 105.41 49.53 180)
 		(fields_autoplaced yes)
@@ -2876,7 +2876,7 @@
 			)
 		)
 	)
-	(global_label "MC1_25_PIN"
+	(global_label "MC2_25_PIN"
 		(shape input)
 		(at 45.72 101.6 180)
 		(fields_autoplaced yes)
@@ -2898,7 +2898,7 @@
 			)
 		)
 	)
-	(global_label "MC1_17_PIN"
+	(global_label "MC2_17_PIN"
 		(shape input)
 		(at 45.72 111.76 180)
 		(fields_autoplaced yes)
@@ -2920,7 +2920,7 @@
 			)
 		)
 	)
-	(global_label "MC1_28_PIN"
+	(global_label "MC2_28_PIN"
 		(shape input)
 		(at 45.72 127 180)
 		(fields_autoplaced yes)
@@ -2942,7 +2942,7 @@
 			)
 		)
 	)
-	(global_label "MC2_51"
+	(global_label "MC1_51"
 		(shape input)
 		(at 119.38 139.7 0)
 		(fields_autoplaced yes)
@@ -2964,7 +2964,7 @@
 			)
 		)
 	)
-	(global_label "MC1_61"
+	(global_label "MC2_61"
 		(shape input)
 		(at 181.61 46.99 0)
 		(fields_autoplaced yes)
@@ -2986,7 +2986,7 @@
 			)
 		)
 	)
-	(global_label "MC1_20"
+	(global_label "MC2_20"
 		(shape input)
 		(at 60.96 137.16 0)
 		(fields_autoplaced yes)
@@ -3008,7 +3008,7 @@
 			)
 		)
 	)
-	(global_label "MC2_53"
+	(global_label "MC1_53"
 		(shape input)
 		(at 119.38 137.16 0)
 		(fields_autoplaced yes)
@@ -3030,7 +3030,7 @@
 			)
 		)
 	)
-	(global_label "MC1_54"
+	(global_label "MC2_54"
 		(shape input)
 		(at 120.65 59.69 0)
 		(fields_autoplaced yes)
@@ -3052,7 +3052,7 @@
 			)
 		)
 	)
-	(global_label "MC2_64"
+	(global_label "MC1_64"
 		(shape input)
 		(at 181.61 59.69 0)
 		(fields_autoplaced yes)
@@ -3074,7 +3074,7 @@
 			)
 		)
 	)
-	(global_label "MC1_34_PIN"
+	(global_label "MC2_34_PIN"
 		(shape input)
 		(at 45.72 116.84 180)
 		(fields_autoplaced yes)
@@ -3096,7 +3096,7 @@
 			)
 		)
 	)
-	(global_label "MC1_43"
+	(global_label "MC2_43"
 		(shape input)
 		(at 180.34 124.46 0)
 		(fields_autoplaced yes)
@@ -3118,7 +3118,7 @@
 			)
 		)
 	)
-	(global_label "MC1_23_PIN"
+	(global_label "MC2_23_PIN"
 		(shape input)
 		(at 45.72 104.14 180)
 		(fields_autoplaced yes)
@@ -3140,9 +3140,9 @@
 			)
 		)
 	)
-	(global_label "MC2_26_PIN"
+	(global_label "MC1_26_PIN"
 		(shape input)
-		(at 165.1 119.38 180)
+		(at 165.1 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3152,7 +3152,7 @@
 		)
 		(uuid "2edfb230-6cd8-4e75-b37d-b763b9e31f42")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.6244 119.38 0)
+			(at 150.6244 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3162,9 +3162,9 @@
 			)
 		)
 	)
-	(global_label "MC2_20"
+	(global_label "MC1_20"
 		(shape input)
-		(at 180.34 111.76 0)
+		(at 180.34 106.68 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3174,7 +3174,7 @@
 		)
 		(uuid "3003d39c-0fa1-48dc-990c-1a210c77ba09")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.6427 111.76 0)
+			(at 190.6427 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3184,7 +3184,7 @@
 			)
 		)
 	)
-	(global_label "MC2_67_PIN"
+	(global_label "MC1_67_PIN"
 		(shape input)
 		(at 104.14 109.22 180)
 		(fields_autoplaced yes)
@@ -3206,7 +3206,7 @@
 			)
 		)
 	)
-	(global_label "MC1_54_PIN"
+	(global_label "MC2_54_PIN"
 		(shape input)
 		(at 105.41 59.69 180)
 		(fields_autoplaced yes)
@@ -3228,7 +3228,7 @@
 			)
 		)
 	)
-	(global_label "MC1_77"
+	(global_label "MC2_77"
 		(shape input)
 		(at 120.65 69.85 0)
 		(fields_autoplaced yes)
@@ -3250,7 +3250,7 @@
 			)
 		)
 	)
-	(global_label "MC2_74"
+	(global_label "MC1_74"
 		(shape input)
 		(at 181.61 72.39 0)
 		(fields_autoplaced yes)
@@ -3272,29 +3272,7 @@
 			)
 		)
 	)
-	(global_label "MC2_10"
-		(shape input)
-		(at 180.34 101.6 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "36a012a8-9814-471d-9b0d-e53838fb2fc2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.6427 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MC1_24"
+	(global_label "MC2_24"
 		(shape input)
 		(at 60.96 132.08 0)
 		(fields_autoplaced yes)
@@ -3316,7 +3294,7 @@
 			)
 		)
 	)
-	(global_label "MC1_15"
+	(global_label "MC2_15"
 		(shape input)
 		(at 60.96 114.3 0)
 		(fields_autoplaced yes)
@@ -3338,7 +3316,7 @@
 			)
 		)
 	)
-	(global_label "MC2_53_PIN"
+	(global_label "MC1_53_PIN"
 		(shape input)
 		(at 104.14 137.16 180)
 		(fields_autoplaced yes)
@@ -3360,7 +3338,7 @@
 			)
 		)
 	)
-	(global_label "MC1_33"
+	(global_label "MC2_33"
 		(shape input)
 		(at 180.34 134.62 0)
 		(fields_autoplaced yes)
@@ -3382,7 +3360,7 @@
 			)
 		)
 	)
-	(global_label "MC2_65_PIN"
+	(global_label "MC1_65_PIN"
 		(shape input)
 		(at 104.14 106.68 180)
 		(fields_autoplaced yes)
@@ -3404,7 +3382,7 @@
 			)
 		)
 	)
-	(global_label "MC2_71"
+	(global_label "MC1_71"
 		(shape input)
 		(at 119.38 114.3 0)
 		(fields_autoplaced yes)
@@ -3426,7 +3404,7 @@
 			)
 		)
 	)
-	(global_label "MC2_29_PIN"
+	(global_label "MC1_29_PIN"
 		(shape input)
 		(at 45.72 31.75 180)
 		(fields_autoplaced yes)
@@ -3448,7 +3426,7 @@
 			)
 		)
 	)
-	(global_label "MC2_77_PIN"
+	(global_label "MC1_77_PIN"
 		(shape input)
 		(at 104.14 124.46 180)
 		(fields_autoplaced yes)
@@ -3470,7 +3448,7 @@
 			)
 		)
 	)
-	(global_label "MC1_33_PIN"
+	(global_label "MC2_33_PIN"
 		(shape input)
 		(at 165.1 134.62 180)
 		(fields_autoplaced yes)
@@ -3492,7 +3470,7 @@
 			)
 		)
 	)
-	(global_label "MC1_66_PIN"
+	(global_label "MC2_66_PIN"
 		(shape input)
 		(at 105.41 44.45 180)
 		(fields_autoplaced yes)
@@ -3514,7 +3492,7 @@
 			)
 		)
 	)
-	(global_label "MC1_21"
+	(global_label "MC2_21"
 		(shape input)
 		(at 60.96 106.68 0)
 		(fields_autoplaced yes)
@@ -3536,7 +3514,7 @@
 			)
 		)
 	)
-	(global_label "MC1_69"
+	(global_label "MC2_69"
 		(shape input)
 		(at 181.61 36.83 0)
 		(fields_autoplaced yes)
@@ -3558,7 +3536,7 @@
 			)
 		)
 	)
-	(global_label "MC2_73_PIN"
+	(global_label "MC1_73_PIN"
 		(shape input)
 		(at 104.14 116.84 180)
 		(fields_autoplaced yes)
@@ -3580,7 +3558,7 @@
 			)
 		)
 	)
-	(global_label "MC2_43_PIN"
+	(global_label "MC1_43_PIN"
 		(shape input)
 		(at 45.72 67.31 180)
 		(fields_autoplaced yes)
@@ -3602,7 +3580,7 @@
 			)
 		)
 	)
-	(global_label "MC1_72"
+	(global_label "MC2_72"
 		(shape input)
 		(at 120.65 36.83 0)
 		(fields_autoplaced yes)
@@ -3624,7 +3602,7 @@
 			)
 		)
 	)
-	(global_label "MC1_73_PIN"
+	(global_label "MC2_73_PIN"
 		(shape input)
 		(at 166.37 31.75 180)
 		(fields_autoplaced yes)
@@ -3646,7 +3624,7 @@
 			)
 		)
 	)
-	(global_label "MC2_66_PIN"
+	(global_label "MC1_66_PIN"
 		(shape input)
 		(at 166.37 62.23 180)
 		(fields_autoplaced yes)
@@ -3668,7 +3646,7 @@
 			)
 		)
 	)
-	(global_label "MC1_59"
+	(global_label "MC2_59"
 		(shape input)
 		(at 181.61 49.53 0)
 		(fields_autoplaced yes)
@@ -3690,7 +3668,7 @@
 			)
 		)
 	)
-	(global_label "MC2_25_PIN"
+	(global_label "MC1_25_PIN"
 		(shape input)
 		(at 45.72 36.83 180)
 		(fields_autoplaced yes)
@@ -3734,9 +3712,9 @@
 			)
 		)
 	)
-	(global_label "MC2_26"
+	(global_label "MC1_26"
 		(shape input)
-		(at 180.34 119.38 0)
+		(at 180.34 114.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3746,7 +3724,7 @@
 		)
 		(uuid "55a4482c-5f72-448f-a77b-39fba3a566aa")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.6427 119.38 0)
+			(at 190.6427 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3756,7 +3734,7 @@
 			)
 		)
 	)
-	(global_label "MC2_68_PIN"
+	(global_label "MC1_68_PIN"
 		(shape input)
 		(at 166.37 64.77 180)
 		(fields_autoplaced yes)
@@ -3778,7 +3756,7 @@
 			)
 		)
 	)
-	(global_label "MC2_27_PIN"
+	(global_label "MC1_27_PIN"
 		(shape input)
 		(at 45.72 34.29 180)
 		(fields_autoplaced yes)
@@ -3800,7 +3778,7 @@
 			)
 		)
 	)
-	(global_label "MC1_16_PIN"
+	(global_label "MC2_16_PIN"
 		(shape input)
 		(at 45.72 142.24 180)
 		(fields_autoplaced yes)
@@ -3822,7 +3800,7 @@
 			)
 		)
 	)
-	(global_label "MC2_39_PIN"
+	(global_label "MC1_39_PIN"
 		(shape input)
 		(at 45.72 62.23 180)
 		(fields_autoplaced yes)
@@ -3844,7 +3822,7 @@
 			)
 		)
 	)
-	(global_label "MC1_74"
+	(global_label "MC2_74"
 		(shape input)
 		(at 120.65 31.75 0)
 		(fields_autoplaced yes)
@@ -3866,29 +3844,7 @@
 			)
 		)
 	)
-	(global_label "MC2_12_PIN"
-		(shape input)
-		(at 165.1 104.14 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "5d99186c-9df6-4b0e-bf25-6feab92c652f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.6244 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MC1_17"
+	(global_label "MC2_17"
 		(shape input)
 		(at 60.96 111.76 0)
 		(fields_autoplaced yes)
@@ -3910,7 +3866,7 @@
 			)
 		)
 	)
-	(global_label "MC2_19_PIN"
+	(global_label "MC1_19_PIN"
 		(shape input)
 		(at 45.72 44.45 180)
 		(fields_autoplaced yes)
@@ -3932,7 +3888,7 @@
 			)
 		)
 	)
-	(global_label "MC1_27"
+	(global_label "MC2_27"
 		(shape input)
 		(at 180.34 142.24 0)
 		(fields_autoplaced yes)
@@ -3954,7 +3910,7 @@
 			)
 		)
 	)
-	(global_label "MC2_68"
+	(global_label "MC1_68"
 		(shape input)
 		(at 181.61 64.77 0)
 		(fields_autoplaced yes)
@@ -3976,29 +3932,7 @@
 			)
 		)
 	)
-	(global_label "MC2_12"
-		(shape input)
-		(at 180.34 104.14 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6a7785f3-f94e-4074-9fd6-4b3644ae4379")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.6427 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MC1_29"
+	(global_label "MC2_29"
 		(shape input)
 		(at 180.34 139.7 0)
 		(fields_autoplaced yes)
@@ -4020,7 +3954,7 @@
 			)
 		)
 	)
-	(global_label "MC2_76_PIN"
+	(global_label "MC1_76_PIN"
 		(shape input)
 		(at 104.14 101.6 180)
 		(fields_autoplaced yes)
@@ -4042,7 +3976,7 @@
 			)
 		)
 	)
-	(global_label "MC1_28"
+	(global_label "MC2_28"
 		(shape input)
 		(at 60.96 127 0)
 		(fields_autoplaced yes)
@@ -4064,7 +3998,7 @@
 			)
 		)
 	)
-	(global_label "MC2_64_PIN"
+	(global_label "MC1_64_PIN"
 		(shape input)
 		(at 166.37 59.69 180)
 		(fields_autoplaced yes)
@@ -4086,7 +4020,7 @@
 			)
 		)
 	)
-	(global_label "MC1_76"
+	(global_label "MC2_76"
 		(shape input)
 		(at 120.65 34.29 0)
 		(fields_autoplaced yes)
@@ -4108,7 +4042,7 @@
 			)
 		)
 	)
-	(global_label "MC1_30"
+	(global_label "MC2_30"
 		(shape input)
 		(at 60.96 124.46 0)
 		(fields_autoplaced yes)
@@ -4130,7 +4064,7 @@
 			)
 		)
 	)
-	(global_label "MC1_65"
+	(global_label "MC2_65"
 		(shape input)
 		(at 181.61 41.91 0)
 		(fields_autoplaced yes)
@@ -4152,9 +4086,9 @@
 			)
 		)
 	)
-	(global_label "MC2_18_PIN"
+	(global_label "MC1_18_PIN"
 		(shape input)
-		(at 165.1 109.22 180)
+		(at 165.1 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4164,7 +4098,7 @@
 		)
 		(uuid "74c8bea1-6291-4427-913b-50a9b9eecc2d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.6244 109.22 0)
+			(at 150.6244 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4174,9 +4108,9 @@
 			)
 		)
 	)
-	(global_label "MC2_22"
+	(global_label "MC1_22"
 		(shape input)
-		(at 180.34 114.3 0)
+		(at 180.34 109.22 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4186,7 +4120,7 @@
 		)
 		(uuid "7560fc91-d05b-4e10-877e-2b127381d560")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.6427 114.3 0)
+			(at 190.6427 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4196,7 +4130,7 @@
 			)
 		)
 	)
-	(global_label "MC1_70_PIN"
+	(global_label "MC2_70_PIN"
 		(shape input)
 		(at 105.41 39.37 180)
 		(fields_autoplaced yes)
@@ -4218,7 +4152,7 @@
 			)
 		)
 	)
-	(global_label "MC1_29_PIN"
+	(global_label "MC2_29_PIN"
 		(shape input)
 		(at 165.1 139.7 180)
 		(fields_autoplaced yes)
@@ -4240,9 +4174,9 @@
 			)
 		)
 	)
-	(global_label "MC2_22_PIN"
+	(global_label "MC1_22_PIN"
 		(shape input)
-		(at 165.1 114.3 180)
+		(at 165.1 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4252,7 +4186,7 @@
 		)
 		(uuid "7a662e2d-4d57-4058-b841-233f3f502643")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.6244 114.3 0)
+			(at 150.6244 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4262,7 +4196,7 @@
 			)
 		)
 	)
-	(global_label "MC1_37"
+	(global_label "MC2_37"
 		(shape input)
 		(at 180.34 132.08 0)
 		(fields_autoplaced yes)
@@ -4284,7 +4218,7 @@
 			)
 		)
 	)
-	(global_label "MC1_39"
+	(global_label "MC2_39"
 		(shape input)
 		(at 180.34 129.54 0)
 		(fields_autoplaced yes)
@@ -4306,7 +4240,7 @@
 			)
 		)
 	)
-	(global_label "MC2_75"
+	(global_label "MC1_75"
 		(shape input)
 		(at 119.38 119.38 0)
 		(fields_autoplaced yes)
@@ -4350,7 +4284,7 @@
 			)
 		)
 	)
-	(global_label "MC1_63"
+	(global_label "MC2_63"
 		(shape input)
 		(at 181.61 44.45 0)
 		(fields_autoplaced yes)
@@ -4372,7 +4306,7 @@
 			)
 		)
 	)
-	(global_label "MC2_17_PIN"
+	(global_label "MC1_17_PIN"
 		(shape input)
 		(at 45.72 46.99 180)
 		(fields_autoplaced yes)
@@ -4394,7 +4328,7 @@
 			)
 		)
 	)
-	(global_label "MC1_59_PIN"
+	(global_label "MC2_59_PIN"
 		(shape input)
 		(at 166.37 49.53 180)
 		(fields_autoplaced yes)
@@ -4416,7 +4350,7 @@
 			)
 		)
 	)
-	(global_label "MC2_17"
+	(global_label "MC1_17"
 		(shape input)
 		(at 60.96 46.99 0)
 		(fields_autoplaced yes)
@@ -4438,7 +4372,7 @@
 			)
 		)
 	)
-	(global_label "MC1_31"
+	(global_label "MC2_31"
 		(shape input)
 		(at 180.34 137.16 0)
 		(fields_autoplaced yes)
@@ -4460,7 +4394,29 @@
 			)
 		)
 	)
-	(global_label "MC2_33_PIN"
+	(global_label "MC1_30"
+		(shape input)
+		(at 180.34 119.38 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "81995b7f-8fe1-437a-99ca-db73f0b1b21e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 190.6427 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MC1_33_PIN"
 		(shape input)
 		(at 45.72 57.15 180)
 		(fields_autoplaced yes)
@@ -4482,7 +4438,7 @@
 			)
 		)
 	)
-	(global_label "MC1_74_PIN"
+	(global_label "MC2_74_PIN"
 		(shape input)
 		(at 105.41 31.75 180)
 		(fields_autoplaced yes)
@@ -4504,7 +4460,7 @@
 			)
 		)
 	)
-	(global_label "MC2_31"
+	(global_label "MC1_31"
 		(shape input)
 		(at 60.96 54.61 0)
 		(fields_autoplaced yes)
@@ -4526,7 +4482,7 @@
 			)
 		)
 	)
-	(global_label "MC2_15"
+	(global_label "MC1_15"
 		(shape input)
 		(at 60.96 49.53 0)
 		(fields_autoplaced yes)
@@ -4548,7 +4504,7 @@
 			)
 		)
 	)
-	(global_label "MC2_74_PIN"
+	(global_label "MC1_74_PIN"
 		(shape input)
 		(at 166.37 72.39 180)
 		(fields_autoplaced yes)
@@ -4570,7 +4526,7 @@
 			)
 		)
 	)
-	(global_label "MC2_29"
+	(global_label "MC1_29"
 		(shape input)
 		(at 60.96 31.75 0)
 		(fields_autoplaced yes)
@@ -4592,7 +4548,7 @@
 			)
 		)
 	)
-	(global_label "MC1_32"
+	(global_label "MC2_32"
 		(shape input)
 		(at 60.96 119.38 0)
 		(fields_autoplaced yes)
@@ -4614,7 +4570,7 @@
 			)
 		)
 	)
-	(global_label "MC1_31_PIN"
+	(global_label "MC2_31_PIN"
 		(shape input)
 		(at 165.1 137.16 180)
 		(fields_autoplaced yes)
@@ -4636,7 +4592,7 @@
 			)
 		)
 	)
-	(global_label "MC1_62"
+	(global_label "MC2_62"
 		(shape input)
 		(at 120.65 49.53 0)
 		(fields_autoplaced yes)
@@ -4658,7 +4614,7 @@
 			)
 		)
 	)
-	(global_label "MC1_15_PIN"
+	(global_label "MC2_15_PIN"
 		(shape input)
 		(at 45.72 114.3 180)
 		(fields_autoplaced yes)
@@ -4680,7 +4636,7 @@
 			)
 		)
 	)
-	(global_label "MC2_31_PIN"
+	(global_label "MC1_31_PIN"
 		(shape input)
 		(at 45.72 54.61 180)
 		(fields_autoplaced yes)
@@ -4702,7 +4658,7 @@
 			)
 		)
 	)
-	(global_label "MC2_45_PIN"
+	(global_label "MC1_45_PIN"
 		(shape input)
 		(at 45.72 69.85 180)
 		(fields_autoplaced yes)
@@ -4724,9 +4680,9 @@
 			)
 		)
 	)
-	(global_label "MC2_24"
+	(global_label "MC1_24"
 		(shape input)
-		(at 180.34 116.84 0)
+		(at 180.34 111.76 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4736,7 +4692,7 @@
 		)
 		(uuid "93ff0338-28d0-48cb-95a7-ef20337168c5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.6427 116.84 0)
+			(at 190.6427 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4746,7 +4702,7 @@
 			)
 		)
 	)
-	(global_label "MC1_65_PIN"
+	(global_label "MC2_65_PIN"
 		(shape input)
 		(at 166.37 41.91 180)
 		(fields_autoplaced yes)
@@ -4768,7 +4724,7 @@
 			)
 		)
 	)
-	(global_label "MC1_72_PIN"
+	(global_label "MC2_72_PIN"
 		(shape input)
 		(at 105.41 36.83 180)
 		(fields_autoplaced yes)
@@ -4790,7 +4746,7 @@
 			)
 		)
 	)
-	(global_label "MC1_60_PIN"
+	(global_label "MC2_60_PIN"
 		(shape input)
 		(at 105.41 54.61 180)
 		(fields_autoplaced yes)
@@ -4812,7 +4768,7 @@
 			)
 		)
 	)
-	(global_label "MC1_27_PIN"
+	(global_label "MC2_27_PIN"
 		(shape input)
 		(at 165.1 142.24 180)
 		(fields_autoplaced yes)
@@ -4834,7 +4790,7 @@
 			)
 		)
 	)
-	(global_label "MC1_16"
+	(global_label "MC2_16"
 		(shape input)
 		(at 60.96 142.24 0)
 		(fields_autoplaced yes)
@@ -4856,9 +4812,9 @@
 			)
 		)
 	)
-	(global_label "MC2_24_PIN"
+	(global_label "MC1_24_PIN"
 		(shape input)
-		(at 165.1 116.84 180)
+		(at 165.1 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4868,7 +4824,7 @@
 		)
 		(uuid "99817a0e-2de3-49c8-966f-f59650303cbf")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.6244 116.84 0)
+			(at 150.6244 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4878,7 +4834,7 @@
 			)
 		)
 	)
-	(global_label "MC1_32_PIN"
+	(global_label "MC2_32_PIN"
 		(shape input)
 		(at 45.72 119.38 180)
 		(fields_autoplaced yes)
@@ -4900,7 +4856,7 @@
 			)
 		)
 	)
-	(global_label "MC2_39"
+	(global_label "MC1_39"
 		(shape input)
 		(at 60.96 62.23 0)
 		(fields_autoplaced yes)
@@ -4922,9 +4878,9 @@
 			)
 		)
 	)
-	(global_label "MC2_16"
+	(global_label "MC1_16"
 		(shape input)
-		(at 180.34 106.68 0)
+		(at 180.34 101.6 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4934,7 +4890,7 @@
 		)
 		(uuid "a098ecd8-5007-4184-b6af-f8a5633003fd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.6427 106.68 0)
+			(at 190.6427 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4944,7 +4900,7 @@
 			)
 		)
 	)
-	(global_label "MC1_58_PIN"
+	(global_label "MC2_58_PIN"
 		(shape input)
 		(at 105.41 57.15 180)
 		(fields_autoplaced yes)
@@ -4966,7 +4922,7 @@
 			)
 		)
 	)
-	(global_label "MC2_62_PIN"
+	(global_label "MC1_62_PIN"
 		(shape input)
 		(at 166.37 57.15 180)
 		(fields_autoplaced yes)
@@ -4988,7 +4944,7 @@
 			)
 		)
 	)
-	(global_label "MC1_41"
+	(global_label "MC2_41"
 		(shape input)
 		(at 180.34 127 0)
 		(fields_autoplaced yes)
@@ -5010,7 +4966,7 @@
 			)
 		)
 	)
-	(global_label "MC1_79"
+	(global_label "MC2_79"
 		(shape input)
 		(at 120.65 67.31 0)
 		(fields_autoplaced yes)
@@ -5032,7 +4988,7 @@
 			)
 		)
 	)
-	(global_label "MC2_72_PIN"
+	(global_label "MC1_72_PIN"
 		(shape input)
 		(at 166.37 69.85 180)
 		(fields_autoplaced yes)
@@ -5054,7 +5010,7 @@
 			)
 		)
 	)
-	(global_label "MC2_41"
+	(global_label "MC1_41"
 		(shape input)
 		(at 60.96 64.77 0)
 		(fields_autoplaced yes)
@@ -5076,7 +5032,7 @@
 			)
 		)
 	)
-	(global_label "MC1_37_PIN"
+	(global_label "MC2_37_PIN"
 		(shape input)
 		(at 165.1 132.08 180)
 		(fields_autoplaced yes)
@@ -5098,7 +5054,7 @@
 			)
 		)
 	)
-	(global_label "MC2_71_PIN"
+	(global_label "MC1_71_PIN"
 		(shape input)
 		(at 104.14 114.3 180)
 		(fields_autoplaced yes)
@@ -5120,7 +5076,7 @@
 			)
 		)
 	)
-	(global_label "MC1_22_PIN"
+	(global_label "MC2_22_PIN"
 		(shape input)
 		(at 45.72 134.62 180)
 		(fields_autoplaced yes)
@@ -5142,7 +5098,7 @@
 			)
 		)
 	)
-	(global_label "MC1_60"
+	(global_label "MC2_60"
 		(shape input)
 		(at 120.65 54.61 0)
 		(fields_autoplaced yes)
@@ -5164,7 +5120,7 @@
 			)
 		)
 	)
-	(global_label "MC1_43_PIN"
+	(global_label "MC2_43_PIN"
 		(shape input)
 		(at 165.1 124.46 180)
 		(fields_autoplaced yes)
@@ -5186,7 +5142,7 @@
 			)
 		)
 	)
-	(global_label "MC1_68"
+	(global_label "MC2_68"
 		(shape input)
 		(at 120.65 41.91 0)
 		(fields_autoplaced yes)
@@ -5208,7 +5164,7 @@
 			)
 		)
 	)
-	(global_label "MC2_25"
+	(global_label "MC1_25"
 		(shape input)
 		(at 60.96 36.83 0)
 		(fields_autoplaced yes)
@@ -5230,7 +5186,7 @@
 			)
 		)
 	)
-	(global_label "MC1_64_PIN"
+	(global_label "MC2_64_PIN"
 		(shape input)
 		(at 105.41 46.99 180)
 		(fields_autoplaced yes)
@@ -5252,7 +5208,7 @@
 			)
 		)
 	)
-	(global_label "MC1_64"
+	(global_label "MC2_64"
 		(shape input)
 		(at 120.65 46.99 0)
 		(fields_autoplaced yes)
@@ -5274,7 +5230,7 @@
 			)
 		)
 	)
-	(global_label "MC2_66"
+	(global_label "MC1_66"
 		(shape input)
 		(at 181.61 62.23 0)
 		(fields_autoplaced yes)
@@ -5296,7 +5252,7 @@
 			)
 		)
 	)
-	(global_label "MC2_62"
+	(global_label "MC1_62"
 		(shape input)
 		(at 181.61 57.15 0)
 		(fields_autoplaced yes)
@@ -5318,7 +5274,7 @@
 			)
 		)
 	)
-	(global_label "MC1_26_PIN"
+	(global_label "MC2_26_PIN"
 		(shape input)
 		(at 45.72 129.54 180)
 		(fields_autoplaced yes)
@@ -5340,7 +5296,7 @@
 			)
 		)
 	)
-	(global_label "MC1_26"
+	(global_label "MC2_26"
 		(shape input)
 		(at 60.96 129.54 0)
 		(fields_autoplaced yes)
@@ -5362,7 +5318,7 @@
 			)
 		)
 	)
-	(global_label "MC2_70_PIN"
+	(global_label "MC1_70_PIN"
 		(shape input)
 		(at 166.37 67.31 180)
 		(fields_autoplaced yes)
@@ -5384,9 +5340,9 @@
 			)
 		)
 	)
-	(global_label "MC2_79"
+	(global_label "MC1_79"
 		(shape input)
-		(at 119.38 127 0)
+		(at 119.38 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5396,7 +5352,7 @@
 		)
 		(uuid "b8c63dcc-573f-4483-aee8-853436d3e52f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.6827 127 0)
+			(at 129.6827 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5406,7 +5362,7 @@
 			)
 		)
 	)
-	(global_label "MC2_57"
+	(global_label "MC1_57"
 		(shape input)
 		(at 119.38 134.62 0)
 		(fields_autoplaced yes)
@@ -5428,7 +5384,7 @@
 			)
 		)
 	)
-	(global_label "MC2_57_PIN"
+	(global_label "MC1_57_PIN"
 		(shape input)
 		(at 104.14 134.62 180)
 		(fields_autoplaced yes)
@@ -5450,7 +5406,7 @@
 			)
 		)
 	)
-	(global_label "MC2_49"
+	(global_label "MC1_49"
 		(shape input)
 		(at 119.38 142.24 0)
 		(fields_autoplaced yes)
@@ -5472,7 +5428,7 @@
 			)
 		)
 	)
-	(global_label "MC1_73"
+	(global_label "MC2_73"
 		(shape input)
 		(at 181.61 31.75 0)
 		(fields_autoplaced yes)
@@ -5494,7 +5450,29 @@
 			)
 		)
 	)
-	(global_label "MC1_50"
+	(global_label "MC1_28"
+		(shape input)
+		(at 180.34 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bb30a53d-6f3a-4aad-8ce8-ac6e1d0ea0f3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 190.6427 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MC2_50"
 		(shape input)
 		(at 120.65 64.77 0)
 		(fields_autoplaced yes)
@@ -5516,7 +5494,7 @@
 			)
 		)
 	)
-	(global_label "MC2_33"
+	(global_label "MC1_33"
 		(shape input)
 		(at 60.96 57.15 0)
 		(fields_autoplaced yes)
@@ -5538,7 +5516,7 @@
 			)
 		)
 	)
-	(global_label "MC1_18_PIN"
+	(global_label "MC2_18_PIN"
 		(shape input)
 		(at 45.72 139.7 180)
 		(fields_autoplaced yes)
@@ -5560,7 +5538,7 @@
 			)
 		)
 	)
-	(global_label "MC2_63_PIN"
+	(global_label "MC1_63_PIN"
 		(shape input)
 		(at 104.14 104.14 180)
 		(fields_autoplaced yes)
@@ -5582,7 +5560,7 @@
 			)
 		)
 	)
-	(global_label "MC1_30_PIN"
+	(global_label "MC2_30_PIN"
 		(shape input)
 		(at 45.72 124.46 180)
 		(fields_autoplaced yes)
@@ -5604,9 +5582,9 @@
 			)
 		)
 	)
-	(global_label "MC2_20_PIN"
+	(global_label "MC1_20_PIN"
 		(shape input)
-		(at 165.1 111.76 180)
+		(at 165.1 106.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5616,7 +5594,7 @@
 		)
 		(uuid "bfb5a8c7-a552-488f-968c-0a337f710a34")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 150.6244 111.76 0)
+			(at 150.6244 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5626,7 +5604,7 @@
 			)
 		)
 	)
-	(global_label "MC1_70"
+	(global_label "MC2_70"
 		(shape input)
 		(at 120.65 39.37 0)
 		(fields_autoplaced yes)
@@ -5648,7 +5626,7 @@
 			)
 		)
 	)
-	(global_label "MC1_63_PIN"
+	(global_label "MC2_63_PIN"
 		(shape input)
 		(at 166.37 44.45 180)
 		(fields_autoplaced yes)
@@ -5670,7 +5648,7 @@
 			)
 		)
 	)
-	(global_label "MC1_67_PIN"
+	(global_label "MC2_67_PIN"
 		(shape input)
 		(at 166.37 39.37 180)
 		(fields_autoplaced yes)
@@ -5692,7 +5670,7 @@
 			)
 		)
 	)
-	(global_label "MC1_71"
+	(global_label "MC2_71"
 		(shape input)
 		(at 181.61 34.29 0)
 		(fields_autoplaced yes)
@@ -5714,7 +5692,7 @@
 			)
 		)
 	)
-	(global_label "MC1_25"
+	(global_label "MC2_25"
 		(shape input)
 		(at 60.96 101.6 0)
 		(fields_autoplaced yes)
@@ -5736,7 +5714,7 @@
 			)
 		)
 	)
-	(global_label "MC2_61"
+	(global_label "MC1_61"
 		(shape input)
 		(at 119.38 129.54 0)
 		(fields_autoplaced yes)
@@ -5758,7 +5736,7 @@
 			)
 		)
 	)
-	(global_label "MC2_27"
+	(global_label "MC1_27"
 		(shape input)
 		(at 60.96 34.29 0)
 		(fields_autoplaced yes)
@@ -5780,7 +5758,7 @@
 			)
 		)
 	)
-	(global_label "MC1_71_PIN"
+	(global_label "MC2_71_PIN"
 		(shape input)
 		(at 166.37 34.29 180)
 		(fields_autoplaced yes)
@@ -5802,7 +5780,7 @@
 			)
 		)
 	)
-	(global_label "MC2_75_PIN"
+	(global_label "MC1_75_PIN"
 		(shape input)
 		(at 104.14 119.38 180)
 		(fields_autoplaced yes)
@@ -5824,7 +5802,7 @@
 			)
 		)
 	)
-	(global_label "MC2_21"
+	(global_label "MC1_21"
 		(shape input)
 		(at 60.96 41.91 0)
 		(fields_autoplaced yes)
@@ -5846,7 +5824,7 @@
 			)
 		)
 	)
-	(global_label "MC1_75"
+	(global_label "MC2_75"
 		(shape input)
 		(at 120.65 72.39 0)
 		(fields_autoplaced yes)
@@ -5868,7 +5846,7 @@
 			)
 		)
 	)
-	(global_label "MC2_76"
+	(global_label "MC1_76"
 		(shape input)
 		(at 119.38 101.6 0)
 		(fields_autoplaced yes)
@@ -5890,7 +5868,7 @@
 			)
 		)
 	)
-	(global_label "MC2_59_PIN"
+	(global_label "MC1_59_PIN"
 		(shape input)
 		(at 104.14 132.08 180)
 		(fields_autoplaced yes)
@@ -5912,7 +5890,7 @@
 			)
 		)
 	)
-	(global_label "MC2_70"
+	(global_label "MC1_70"
 		(shape input)
 		(at 181.61 67.31 0)
 		(fields_autoplaced yes)
@@ -5934,7 +5912,7 @@
 			)
 		)
 	)
-	(global_label "MC1_61_PIN"
+	(global_label "MC2_61_PIN"
 		(shape input)
 		(at 166.37 46.99 180)
 		(fields_autoplaced yes)
@@ -5956,7 +5934,7 @@
 			)
 		)
 	)
-	(global_label "MC2_19"
+	(global_label "MC1_19"
 		(shape input)
 		(at 60.96 44.45 0)
 		(fields_autoplaced yes)
@@ -5978,7 +5956,7 @@
 			)
 		)
 	)
-	(global_label "MC2_79_PIN"
+	(global_label "MC1_79_PIN"
 		(shape input)
 		(at 104.14 127 180)
 		(fields_autoplaced yes)
@@ -6000,7 +5978,7 @@
 			)
 		)
 	)
-	(global_label "MC2_60"
+	(global_label "MC1_60"
 		(shape input)
 		(at 181.61 54.61 0)
 		(fields_autoplaced yes)
@@ -6022,7 +6000,7 @@
 			)
 		)
 	)
-	(global_label "MC1_76_PIN"
+	(global_label "MC2_76_PIN"
 		(shape input)
 		(at 105.41 34.29 180)
 		(fields_autoplaced yes)
@@ -6044,7 +6022,7 @@
 			)
 		)
 	)
-	(global_label "MC2_51_PIN"
+	(global_label "MC1_51_PIN"
 		(shape input)
 		(at 104.14 139.7 180)
 		(fields_autoplaced yes)
@@ -6066,7 +6044,7 @@
 			)
 		)
 	)
-	(global_label "MC2_37_PIN"
+	(global_label "MC1_37_PIN"
 		(shape input)
 		(at 45.72 59.69 180)
 		(fields_autoplaced yes)
@@ -6088,7 +6066,7 @@
 			)
 		)
 	)
-	(global_label "MC2_73"
+	(global_label "MC1_73"
 		(shape input)
 		(at 119.38 116.84 0)
 		(fields_autoplaced yes)
@@ -6110,7 +6088,7 @@
 			)
 		)
 	)
-	(global_label "MC1_52_PIN"
+	(global_label "MC2_52_PIN"
 		(shape input)
 		(at 105.41 62.23 180)
 		(fields_autoplaced yes)
@@ -6132,7 +6110,7 @@
 			)
 		)
 	)
-	(global_label "MC1_58"
+	(global_label "MC2_58"
 		(shape input)
 		(at 120.65 57.15 0)
 		(fields_autoplaced yes)
@@ -6154,7 +6132,7 @@
 			)
 		)
 	)
-	(global_label "MC1_77_PIN"
+	(global_label "MC2_77_PIN"
 		(shape input)
 		(at 105.41 69.85 180)
 		(fields_autoplaced yes)
@@ -6176,7 +6154,29 @@
 			)
 		)
 	)
-	(global_label "MC2_49_PIN"
+	(global_label "MC1_30_PIN"
+		(shape input)
+		(at 165.1 119.38 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e3fd149f-aa38-4e7f-89df-ec81e59a5681")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 150.6244 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MC1_49_PIN"
 		(shape input)
 		(at 104.14 142.24 180)
 		(fields_autoplaced yes)
@@ -6198,7 +6198,7 @@
 			)
 		)
 	)
-	(global_label "MC1_67"
+	(global_label "MC2_67"
 		(shape input)
 		(at 181.61 39.37 0)
 		(fields_autoplaced yes)
@@ -6220,7 +6220,7 @@
 			)
 		)
 	)
-	(global_label "MC2_65"
+	(global_label "MC1_65"
 		(shape input)
 		(at 119.38 106.68 0)
 		(fields_autoplaced yes)
@@ -6242,7 +6242,7 @@
 			)
 		)
 	)
-	(global_label "MC2_41_PIN"
+	(global_label "MC1_41_PIN"
 		(shape input)
 		(at 45.72 64.77 180)
 		(fields_autoplaced yes)
@@ -6264,7 +6264,7 @@
 			)
 		)
 	)
-	(global_label "MC2_47"
+	(global_label "MC1_47"
 		(shape input)
 		(at 60.96 72.39 0)
 		(fields_autoplaced yes)
@@ -6286,7 +6286,7 @@
 			)
 		)
 	)
-	(global_label "MC1_21_PIN"
+	(global_label "MC2_21_PIN"
 		(shape input)
 		(at 45.72 106.68 180)
 		(fields_autoplaced yes)
@@ -6308,7 +6308,7 @@
 			)
 		)
 	)
-	(global_label "MC2_72"
+	(global_label "MC1_72"
 		(shape input)
 		(at 181.61 69.85 0)
 		(fields_autoplaced yes)
@@ -6330,7 +6330,7 @@
 			)
 		)
 	)
-	(global_label "MC1_68_PIN"
+	(global_label "MC2_68_PIN"
 		(shape input)
 		(at 105.41 41.91 180)
 		(fields_autoplaced yes)
@@ -6352,7 +6352,7 @@
 			)
 		)
 	)
-	(global_label "MC1_24_PIN"
+	(global_label "MC2_24_PIN"
 		(shape input)
 		(at 45.72 132.08 180)
 		(fields_autoplaced yes)
@@ -6374,7 +6374,7 @@
 			)
 		)
 	)
-	(global_label "MC1_69_PIN"
+	(global_label "MC2_69_PIN"
 		(shape input)
 		(at 166.37 36.83 180)
 		(fields_autoplaced yes)
@@ -6396,7 +6396,7 @@
 			)
 		)
 	)
-	(global_label "MC1_19_PIN"
+	(global_label "MC2_19_PIN"
 		(shape input)
 		(at 45.72 109.22 180)
 		(fields_autoplaced yes)
@@ -6418,7 +6418,7 @@
 			)
 		)
 	)
-	(global_label "MC1_22"
+	(global_label "MC2_22"
 		(shape input)
 		(at 60.96 134.62 0)
 		(fields_autoplaced yes)
@@ -6440,7 +6440,7 @@
 			)
 		)
 	)
-	(global_label "MC2_21_PIN"
+	(global_label "MC1_21_PIN"
 		(shape input)
 		(at 45.72 41.91 180)
 		(fields_autoplaced yes)
@@ -6462,7 +6462,7 @@
 			)
 		)
 	)
-	(global_label "MC2_61_PIN"
+	(global_label "MC1_61_PIN"
 		(shape input)
 		(at 104.14 129.54 180)
 		(fields_autoplaced yes)
@@ -6484,7 +6484,7 @@
 			)
 		)
 	)
-	(global_label "MC1_39_PIN"
+	(global_label "MC2_39_PIN"
 		(shape input)
 		(at 165.1 129.54 180)
 		(fields_autoplaced yes)
@@ -6506,7 +6506,7 @@
 			)
 		)
 	)
-	(global_label "MC2_47_PIN"
+	(global_label "MC1_47_PIN"
 		(shape input)
 		(at 45.72 72.39 180)
 		(fields_autoplaced yes)
@@ -6528,7 +6528,7 @@
 			)
 		)
 	)
-	(global_label "MC2_63"
+	(global_label "MC1_63"
 		(shape input)
 		(at 119.38 104.14 0)
 		(fields_autoplaced yes)
@@ -6550,7 +6550,7 @@
 			)
 		)
 	)
-	(global_label "MC2_69"
+	(global_label "MC1_69"
 		(shape input)
 		(at 119.38 111.76 0)
 		(fields_autoplaced yes)
@@ -6572,7 +6572,7 @@
 			)
 		)
 	)
-	(global_label "MC1_23"
+	(global_label "MC2_23"
 		(shape input)
 		(at 60.96 104.14 0)
 		(fields_autoplaced yes)
@@ -6594,7 +6594,7 @@
 			)
 		)
 	)
-	(global_label "MC2_69_PIN"
+	(global_label "MC1_69_PIN"
 		(shape input)
 		(at 104.14 111.76 180)
 		(fields_autoplaced yes)
@@ -6616,9 +6616,9 @@
 			)
 		)
 	)
-	(global_label "MC2_77"
+	(global_label "MC1_77"
 		(shape input)
-		(at 119.38 124.46 0)
+		(at 119.38 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6628,7 +6628,7 @@
 		)
 		(uuid "fe10c212-57da-48ac-bddd-214f968e8673")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.6827 124.46 0)
+			(at 129.6827 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6638,7 +6638,7 @@
 			)
 		)
 	)
-	(global_label "MC2_37"
+	(global_label "MC1_37"
 		(shape input)
 		(at 60.96 59.69 0)
 		(fields_autoplaced yes)
@@ -6660,7 +6660,7 @@
 			)
 		)
 	)
-	(global_label "MC2_15_PIN"
+	(global_label "MC1_15_PIN"
 		(shape input)
 		(at 45.72 49.53 180)
 		(fields_autoplaced yes)

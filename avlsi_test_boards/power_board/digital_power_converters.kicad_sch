@@ -1934,6 +1934,12 @@
 		(uuid "97762661-5f2f-4244-b8d4-7b48c580f31f")
 	)
 	(junction
+		(at 60.96 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a3d9de7b-8367-4657-8490-0a929d364f07")
+	)
+	(junction
 		(at 182.88 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2395,6 +2401,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 49.53) (xy 63.5 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53752163-74ff-4557-9500-9b4d6bcfeb45")
+	)
+	(wire
+		(pts
 			(xy 101.6 48.26) (xy 110.49 48.26)
 		)
 		(stroke
@@ -2562,6 +2578,16 @@
 			(type default)
 		)
 		(uuid "72fa6cc4-2c31-43e4-8afd-00d13983fb93")
+	)
+	(wire
+		(pts
+			(xy 60.96 31.75) (xy 60.96 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bec5a8c-9c36-4c8d-b22e-1ba46ed36a95")
 	)
 	(wire
 		(pts
@@ -2882,6 +2908,16 @@
 			(type default)
 		)
 		(uuid "bdd4db86-ff79-419f-a461-ac9c30cae682")
+	)
+	(wire
+		(pts
+			(xy 63.5 31.75) (xy 60.96 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1bd64de-624e-44a8-b2af-7b8dec3eecf9")
 	)
 	(wire
 		(pts
@@ -3797,6 +3833,28 @@
 			(justify left)
 		)
 		(uuid "bfd1ce1c-ba3d-4221-ba1e-dbcac8f9ceea")
+	)
+	(hierarchical_label "DGND"
+		(shape input)
+		(at 63.5 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ceac0241-ba1d-42f2-8ea1-bf1df3c9f36b")
+	)
+	(hierarchical_label "VIN"
+		(shape input)
+		(at 63.5 31.75 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ded6470e-5e4c-40ee-bf6b-418f4b0706a2")
 	)
 	(symbol
 		(lib_id "Device:C")

@@ -1068,6 +1068,12 @@
 		(color 0 0 0 0)
 		(uuid "ec0fb6d0-54de-464a-86ce-3c9808a08ffa")
 	)
+	(junction
+		(at 100.33 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f23b0fc1-09f0-4e59-9a01-d8966e8a8087")
+	)
 	(wire
 		(pts
 			(xy 162.56 80.01) (xy 162.56 78.74)
@@ -1497,6 +1503,16 @@
 			(type default)
 		)
 		(uuid "a17bd2e0-02a9-4b75-bacf-235870995ab7")
+	)
+	(wire
+		(pts
+			(xy 100.33 41.91) (xy 101.6 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a20ff8cc-8882-4a11-bb7c-6c8571d7a034")
 	)
 	(wire
 		(pts
@@ -2040,6 +2056,17 @@
 			(justify left)
 		)
 		(uuid "28c1c199-ba49-4c13-8bcd-f994ffd2ce0a")
+	)
+	(hierarchical_label "AGND"
+		(shape input)
+		(at 101.6 41.91 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "295adae9-21d9-4e0a-a76e-b957bf1de68c")
 	)
 	(hierarchical_label "VCCA33"
 		(shape input)

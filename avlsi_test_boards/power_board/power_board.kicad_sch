@@ -2235,7 +2235,7 @@
 				(justify left top)
 			)
 		)
-		(pin "DGND" input
+		(pin "AGND" input
 			(at 156.21 67.31 180)
 			(effects
 				(font

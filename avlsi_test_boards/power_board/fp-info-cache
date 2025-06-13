@@ -1,4 +1,4 @@
-24023761129572125
+24025535609351444
 2_DS
 24549853
 2454985-3-1
@@ -96613,6 +96613,13 @@ avlsi_power_board_opal_kelly
 0
 187
 187
+avlsi_preferred_parts
+chip_board
+
+
+0
+192
+192
 avlsi_preferred_parts
 opal_kelly_XEM7310_header
 
